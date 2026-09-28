@@ -1,0 +1,2804 @@
+{
+  "RAGTruth": [
+    {
+      "id": "17055",
+      "hallucinated": false
+    },
+    {
+      "id": "14368",
+      "hallucinated": false
+    },
+    {
+      "id": "12103",
+      "hallucinated": false
+    },
+    {
+      "id": "15481",
+      "hallucinated": false
+    },
+    {
+      "id": "15206",
+      "hallucinated": false
+    },
+    {
+      "id": "16796",
+      "hallucinated": false
+    },
+    {
+      "id": "13432",
+      "hallucinated": false
+    },
+    {
+      "id": "15130",
+      "hallucinated": false
+    },
+    {
+      "id": "12521",
+      "hallucinated": true
+    },
+    {
+      "id": "16356",
+      "hallucinated": false
+    },
+    {
+      "id": "13161",
+      "hallucinated": true
+    },
+    {
+      "id": "13139",
+      "hallucinated": false
+    },
+    {
+      "id": "13163",
+      "hallucinated": true
+    },
+    {
+      "id": "12690",
+      "hallucinated": false
+    },
+    {
+      "id": "15174",
+      "hallucinated": false
+    },
+    {
+      "id": "13208",
+      "hallucinated": false
+    },
+    {
+      "id": "12456",
+      "hallucinated": false
+    },
+    {
+      "id": "12107",
+      "hallucinated": false
+    },
+    {
+      "id": "14745",
+      "hallucinated": false
+    },
+    {
+      "id": "15930",
+      "hallucinated": false
+    },
+    {
+      "id": "16565",
+      "hallucinated": false
+    },
+    {
+      "id": "17397",
+      "hallucinated": false
+    },
+    {
+      "id": "13162",
+      "hallucinated": true
+    },
+    {
+      "id": "12522",
+      "hallucinated": false
+    },
+    {
+      "id": "16853",
+      "hallucinated": true
+    },
+    {
+      "id": "16466",
+      "hallucinated": false
+    },
+    {
+      "id": "14095",
+      "hallucinated": false
+    },
+    {
+      "id": "12432",
+      "hallucinated": false
+    },
+    {
+      "id": "13311",
+      "hallucinated": false
+    },
+    {
+      "id": "14209",
+      "hallucinated": false
+    },
+    {
+      "id": "14288",
+      "hallucinated": false
+    },
+    {
+      "id": "15011",
+      "hallucinated": true
+    },
+    {
+      "id": "11905",
+      "hallucinated": false
+    },
+    {
+      "id": "14471",
+      "hallucinated": false
+    },
+    {
+      "id": "14353",
+      "hallucinated": false
+    },
+    {
+      "id": "12217",
+      "hallucinated": false
+    },
+    {
+      "id": "15924",
+      "hallucinated": false
+    },
+    {
+      "id": "13207",
+      "hallucinated": false
+    },
+    {
+      "id": "12695",
+      "hallucinated": true
+    },
+    {
+      "id": "14746",
+      "hallucinated": false
+    },
+    {
+      "id": "15967",
+      "hallucinated": false
+    },
+    {
+      "id": "12913",
+      "hallucinated": false
+    },
+    {
+      "id": "14860",
+      "hallucinated": true
+    },
+    {
+      "id": "14213",
+      "hallucinated": false
+    },
+    {
+      "id": "12233",
+      "hallucinated": true
+    },
+    {
+      "id": "12046",
+      "hallucinated": true
+    },
+    {
+      "id": "16894",
+      "hallucinated": false
+    },
+    {
+      "id": "14995",
+      "hallucinated": false
+    },
+    {
+      "id": "15346",
+      "hallucinated": false
+    },
+    {
+      "id": "17573",
+      "hallucinated": false
+    },
+    {
+      "id": "12298",
+      "hallucinated": false
+    },
+    {
+      "id": "15106",
+      "hallucinated": true
+    },
+    {
+      "id": "16468",
+      "hallucinated": false
+    },
+    {
+      "id": "13043",
+      "hallucinated": false
+    },
+    {
+      "id": "17058",
+      "hallucinated": false
+    },
+    {
+      "id": "15209",
+      "hallucinated": false
+    },
+    {
+      "id": "12916",
+      "hallucinated": false
+    },
+    {
+      "id": "12180",
+      "hallucinated": false
+    },
+    {
+      "id": "13916",
+      "hallucinated": false
+    },
+    {
+      "id": "15624",
+      "hallucinated": false
+    },
+    {
+      "id": "15205",
+      "hallucinated": false
+    },
+    {
+      "id": "13717",
+      "hallucinated": false
+    },
+    {
+      "id": "15557",
+      "hallucinated": true
+    },
+    {
+      "id": "16690",
+      "hallucinated": false
+    },
+    {
+      "id": "14380",
+      "hallucinated": false
+    },
+    {
+      "id": "13530",
+      "hallucinated": false
+    },
+    {
+      "id": "13294",
+      "hallucinated": false
+    },
+    {
+      "id": "15925",
+      "hallucinated": false
+    },
+    {
+      "id": "13363",
+      "hallucinated": true
+    },
+    {
+      "id": "17756",
+      "hallucinated": false
+    },
+    {
+      "id": "12071",
+      "hallucinated": false
+    },
+    {
+      "id": "14858",
+      "hallucinated": false
+    },
+    {
+      "id": "13137",
+      "hallucinated": true
+    },
+    {
+      "id": "17562",
+      "hallucinated": false
+    },
+    {
+      "id": "12185",
+      "hallucinated": false
+    },
+    {
+      "id": "13309",
+      "hallucinated": false
+    },
+    {
+      "id": "15685",
+      "hallucinated": false
+    },
+    {
+      "id": "13295",
+      "hallucinated": false
+    },
+    {
+      "id": "13233",
+      "hallucinated": false
+    },
+    {
+      "id": "13313",
+      "hallucinated": false
+    },
+    {
+      "id": "14280",
+      "hallucinated": false
+    },
+    {
+      "id": "14355",
+      "hallucinated": false
+    },
+    {
+      "id": "15934",
+      "hallucinated": false
+    },
+    {
+      "id": "13135",
+      "hallucinated": false
+    },
+    {
+      "id": "15687",
+      "hallucinated": true
+    },
+    {
+      "id": "14888",
+      "hallucinated": false
+    },
+    {
+      "id": "14749",
+      "hallucinated": false
+    },
+    {
+      "id": "14131",
+      "hallucinated": true
+    },
+    {
+      "id": "16465",
+      "hallucinated": false
+    },
+    {
+      "id": "16416",
+      "hallucinated": false
+    },
+    {
+      "id": "12023",
+      "hallucinated": false
+    },
+    {
+      "id": "14289",
+      "hallucinated": false
+    },
+    {
+      "id": "14513",
+      "hallucinated": false
+    },
+    {
+      "id": "12330",
+      "hallucinated": false
+    },
+    {
+      "id": "16899",
+      "hallucinated": false
+    },
+    {
+      "id": "14130",
+      "hallucinated": false
+    },
+    {
+      "id": "13131",
+      "hallucinated": false
+    },
+    {
+      "id": "13719",
+      "hallucinated": false
+    },
+    {
+      "id": "14198",
+      "hallucinated": false
+    },
+    {
+      "id": "17057",
+      "hallucinated": false
+    },
+    {
+      "id": "16895",
+      "hallucinated": true
+    },
+    {
+      "id": "13379",
+      "hallucinated": false
+    },
+    {
+      "id": "15463",
+      "hallucinated": false
+    },
+    {
+      "id": "12230",
+      "hallucinated": false
+    },
+    {
+      "id": "13070",
+      "hallucinated": true
+    },
+    {
+      "id": "17253",
+      "hallucinated": false
+    },
+    {
+      "id": "12345",
+      "hallucinated": true
+    },
+    {
+      "id": "16663",
+      "hallucinated": false
+    },
+    {
+      "id": "14689",
+      "hallucinated": false
+    },
+    {
+      "id": "15271",
+      "hallucinated": false
+    },
+    {
+      "id": "14857",
+      "hallucinated": false
+    },
+    {
+      "id": "12917",
+      "hallucinated": true
+    },
+    {
+      "id": "15779",
+      "hallucinated": false
+    },
+    {
+      "id": "13209",
+      "hallucinated": false
+    },
+    {
+      "id": "12706",
+      "hallucinated": false
+    },
+    {
+      "id": "14367",
+      "hallucinated": false
+    },
+    {
+      "id": "14814",
+      "hallucinated": false
+    },
+    {
+      "id": "15731",
+      "hallucinated": false
+    },
+    {
+      "id": "14098",
+      "hallucinated": true
+    },
+    {
+      "id": "17398",
+      "hallucinated": false
+    },
+    {
+      "id": "17056",
+      "hallucinated": false
+    },
+    {
+      "id": "14701",
+      "hallucinated": false
+    },
+    {
+      "id": "12900",
+      "hallucinated": false
+    },
+    {
+      "id": "17518",
+      "hallucinated": false
+    },
+    {
+      "id": "13340",
+      "hallucinated": true
+    },
+    {
+      "id": "14377",
+      "hallucinated": false
+    },
+    {
+      "id": "12460",
+      "hallucinated": true
+    },
+    {
+      "id": "15753",
+      "hallucinated": true
+    },
+    {
+      "id": "13943",
+      "hallucinated": false
+    },
+    {
+      "id": "12182",
+      "hallucinated": false
+    },
+    {
+      "id": "13133",
+      "hallucinated": false
+    },
+    {
+      "id": "16157",
+      "hallucinated": false
+    },
+    {
+      "id": "13429",
+      "hallucinated": false
+    },
+    {
+      "id": "14394",
+      "hallucinated": false
+    },
+    {
+      "id": "12136",
+      "hallucinated": false
+    },
+    {
+      "id": "15273",
+      "hallucinated": true
+    },
+    {
+      "id": "14208",
+      "hallucinated": false
+    },
+    {
+      "id": "13230",
+      "hallucinated": false
+    },
+    {
+      "id": "13917",
+      "hallucinated": true
+    },
+    {
+      "id": "14886",
+      "hallucinated": false
+    },
+    {
+      "id": "13367",
+      "hallucinated": true
+    },
+    {
+      "id": "15783",
+      "hallucinated": false
+    },
+    {
+      "id": "15484",
+      "hallucinated": false
+    },
+    {
+      "id": "12334",
+      "hallucinated": false
+    },
+    {
+      "id": "15179",
+      "hallucinated": false
+    },
+    {
+      "id": "11906",
+      "hallucinated": false
+    },
+    {
+      "id": "16771",
+      "hallucinated": false
+    },
+    {
+      "id": "17234",
+      "hallucinated": false
+    },
+    {
+      "id": "15344",
+      "hallucinated": false
+    },
+    {
+      "id": "14323",
+      "hallucinated": true
+    },
+    {
+      "id": "15778",
+      "hallucinated": false
+    },
+    {
+      "id": "12446",
+      "hallucinated": false
+    },
+    {
+      "id": "16511",
+      "hallucinated": true
+    },
+    {
+      "id": "14805",
+      "hallucinated": false
+    },
+    {
+      "id": "12438",
+      "hallucinated": false
+    },
+    {
+      "id": "12220",
+      "hallucinated": false
+    },
+    {
+      "id": "16119",
+      "hallucinated": false
+    },
+    {
+      "id": "14763",
+      "hallucinated": true
+    },
+    {
+      "id": "12017",
+      "hallucinated": false
+    },
+    {
+      "id": "12526",
+      "hallucinated": false
+    },
+    {
+      "id": "17515",
+      "hallucinated": false
+    },
+    {
+      "id": "17201",
+      "hallucinated": false
+    },
+    {
+      "id": "14752",
+      "hallucinated": false
+    },
+    {
+      "id": "12914",
+      "hallucinated": false
+    },
+    {
+      "id": "13531",
+      "hallucinated": false
+    },
+    {
+      "id": "14890",
+      "hallucinated": false
+    },
+    {
+      "id": "14693",
+      "hallucinated": false
+    },
+    {
+      "id": "16849",
+      "hallucinated": false
+    },
+    {
+      "id": "15196",
+      "hallucinated": false
+    },
+    {
+      "id": "12437",
+      "hallucinated": false
+    },
+    {
+      "id": "16417",
+      "hallucinated": false
+    },
+    {
+      "id": "15932",
+      "hallucinated": false
+    },
+    {
+      "id": "14292",
+      "hallucinated": false
+    },
+    {
+      "id": "14803",
+      "hallucinated": false
+    },
+    {
+      "id": "16467",
+      "hallucinated": true
+    },
+    {
+      "id": "14291",
+      "hallucinated": false
+    },
+    {
+      "id": "14006",
+      "hallucinated": false
+    },
+    {
+      "id": "14817",
+      "hallucinated": false
+    },
+    {
+      "id": "15728",
+      "hallucinated": true
+    },
+    {
+      "id": "13159",
+      "hallucinated": false
+    },
+    {
+      "id": "15461",
+      "hallucinated": false
+    },
+    {
+      "id": "14008",
+      "hallucinated": false
+    },
+    {
+      "id": "16691",
+      "hallucinated": false
+    },
+    {
+      "id": "13745",
+      "hallucinated": false
+    },
+    {
+      "id": "14764",
+      "hallucinated": true
+    },
+    {
+      "id": "12605",
+      "hallucinated": false
+    },
+    {
+      "id": "16150",
+      "hallucinated": false
+    },
+    {
+      "id": "12231",
+      "hallucinated": false
+    },
+    {
+      "id": "15780",
+      "hallucinated": false
+    },
+    {
+      "id": "13441",
+      "hallucinated": false
+    },
+    {
+      "id": "12762",
+      "hallucinated": false
+    },
+    {
+      "id": "12106",
+      "hallucinated": false
+    },
+    {
+      "id": "14395",
+      "hallucinated": false
+    },
+    {
+      "id": "14324",
+      "hallucinated": true
+    },
+    {
+      "id": "15774",
+      "hallucinated": false
+    },
+    {
+      "id": "15007",
+      "hallucinated": false
+    },
+    {
+      "id": "12457",
+      "hallucinated": false
+    },
+    {
+      "id": "12555",
+      "hallucinated": false
+    },
+    {
+      "id": "15009",
+      "hallucinated": false
+    },
+    {
+      "id": "12905",
+      "hallucinated": false
+    },
+    {
+      "id": "14802",
+      "hallucinated": false
+    },
+    {
+      "id": "13264",
+      "hallucinated": false
+    },
+    {
+      "id": "14469",
+      "hallucinated": true
+    },
+    {
+      "id": "12469",
+      "hallucinated": false
+    },
+    {
+      "id": "14357",
+      "hallucinated": false
+    },
+    {
+      "id": "12445",
+      "hallucinated": false
+    },
+    {
+      "id": "13292",
+      "hallucinated": false
+    },
+    {
+      "id": "15104",
+      "hallucinated": true
+    },
+    {
+      "id": "15712",
+      "hallucinated": true
+    },
+    {
+      "id": "12442",
+      "hallucinated": false
+    },
+    {
+      "id": "15480",
+      "hallucinated": false
+    },
+    {
+      "id": "14293",
+      "hallucinated": true
+    },
+    {
+      "id": "12134",
+      "hallucinated": false
+    },
+    {
+      "id": "14212",
+      "hallucinated": false
+    },
+    {
+      "id": "16902",
+      "hallucinated": false
+    },
+    {
+      "id": "12620",
+      "hallucinated": false
+    },
+    {
+      "id": "13741",
+      "hallucinated": false
+    },
+    {
+      "id": "16633",
+      "hallucinated": false
+    },
+    {
+      "id": "15735",
+      "hallucinated": true
+    },
+    {
+      "id": "15900",
+      "hallucinated": false
+    },
+    {
+      "id": "13430",
+      "hallucinated": false
+    },
+    {
+      "id": "12342",
+      "hallucinated": false
+    },
+    {
+      "id": "12347",
+      "hallucinated": false
+    },
+    {
+      "id": "15129",
+      "hallucinated": true
+    },
+    {
+      "id": "13535",
+      "hallucinated": false
+    },
+    {
+      "id": "15928",
+      "hallucinated": false
+    },
+    {
+      "id": "16687",
+      "hallucinated": false
+    },
+    {
+      "id": "13109",
+      "hallucinated": false
+    },
+    {
+      "id": "12015",
+      "hallucinated": false
+    },
+    {
+      "id": "12070",
+      "hallucinated": false
+    },
+    {
+      "id": "15458",
+      "hallucinated": false
+    },
+    {
+      "id": "17284",
+      "hallucinated": false
+    },
+    {
+      "id": "14748",
+      "hallucinated": false
+    },
+    {
+      "id": "13742",
+      "hallucinated": false
+    },
+    {
+      "id": "12912",
+      "hallucinated": false
+    },
+    {
+      "id": "14369",
+      "hallucinated": false
+    },
+    {
+      "id": "15708",
+      "hallucinated": false
+    },
+    {
+      "id": "16897",
+      "hallucinated": false
+    },
+    {
+      "id": "14296",
+      "hallucinated": false
+    },
+    {
+      "id": "17059",
+      "hallucinated": false
+    },
+    {
+      "id": "13042",
+      "hallucinated": true
+    },
+    {
+      "id": "16882",
+      "hallucinated": false
+    },
+    {
+      "id": "13210",
+      "hallucinated": true
+    },
+    {
+      "id": "14200",
+      "hallucinated": false
+    },
+    {
+      "id": "14005",
+      "hallucinated": false
+    },
+    {
+      "id": "17755",
+      "hallucinated": false
+    },
+    {
+      "id": "13365",
+      "hallucinated": false
+    },
+    {
+      "id": "12602",
+      "hallucinated": true
+    },
+    {
+      "id": "16121",
+      "hallucinated": true
+    },
+    {
+      "id": "13911",
+      "hallucinated": false
+    },
+    {
+      "id": "16892",
+      "hallucinated": false
+    },
+    {
+      "id": "15650",
+      "hallucinated": false
+    },
+    {
+      "id": "14286",
+      "hallucinated": false
+    },
+    {
+      "id": "13263",
+      "hallucinated": true
+    },
+    {
+      "id": "15195",
+      "hallucinated": true
+    },
+    {
+      "id": "17565",
+      "hallucinated": false
+    },
+    {
+      "id": "17564",
+      "hallucinated": false
+    },
+    {
+      "id": "16357",
+      "hallucinated": false
+    },
+    {
+      "id": "15202",
+      "hallucinated": false
+    },
+    {
+      "id": "14352",
+      "hallucinated": false
+    },
+    {
+      "id": "14097",
+      "hallucinated": true
+    },
+    {
+      "id": "15460",
+      "hallucinated": false
+    },
+    {
+      "id": "14700",
+      "hallucinated": false
+    },
+    {
+      "id": "13338",
+      "hallucinated": false
+    },
+    {
+      "id": "14845",
+      "hallucinated": false
+    },
+    {
+      "id": "13260",
+      "hallucinated": false
+    },
+    {
+      "id": "13132",
+      "hallucinated": false
+    },
+    {
+      "id": "12705",
+      "hallucinated": false
+    },
+    {
+      "id": "14760",
+      "hallucinated": false
+    },
+    {
+      "id": "13919",
+      "hallucinated": true
+    },
+    {
+      "id": "16058",
+      "hallucinated": false
+    },
+    {
+      "id": "14775",
+      "hallucinated": false
+    },
+    {
+      "id": "14057",
+      "hallucinated": false
+    },
+    {
+      "id": "13942",
+      "hallucinated": false
+    },
+    {
+      "id": "12764",
+      "hallucinated": false
+    },
+    {
+      "id": "16153",
+      "hallucinated": false
+    },
+    {
+      "id": "15648",
+      "hallucinated": false
+    },
+    {
+      "id": "15903",
+      "hallucinated": false
+    },
+    {
+      "id": "15274",
+      "hallucinated": false
+    },
+    {
+      "id": "14714",
+      "hallucinated": false
+    },
+    {
+      "id": "15718",
+      "hallucinated": false
+    },
+    {
+      "id": "16689",
+      "hallucinated": false
+    },
+    {
+      "id": "12294",
+      "hallucinated": false
+    },
+    {
+      "id": "15194",
+      "hallucinated": false
+    },
+    {
+      "id": "12043",
+      "hallucinated": false
+    },
+    {
+      "id": "13468",
+      "hallucinated": false
+    },
+    {
+      "id": "14997",
+      "hallucinated": false
+    },
+    {
+      "id": "15901",
+      "hallucinated": false
+    },
+    {
+      "id": "12016",
+      "hallucinated": false
+    },
+    {
+      "id": "15342",
+      "hallucinated": false
+    },
+    {
+      "id": "15625",
+      "hallucinated": false
+    },
+    {
+      "id": "15207",
+      "hallucinated": false
+    },
+    {
+      "id": "14399",
+      "hallucinated": false
+    },
+    {
+      "id": "16453",
+      "hallucinated": false
+    },
+    {
+      "id": "17251",
+      "hallucinated": false
+    },
+    {
+      "id": "13154",
+      "hallucinated": false
+    },
+    {
+      "id": "13366",
+      "hallucinated": true
+    },
+    {
+      "id": "13376",
+      "hallucinated": true
+    },
+    {
+      "id": "14283",
+      "hallucinated": true
+    },
+    {
+      "id": "13912",
+      "hallucinated": false
+    },
+    {
+      "id": "15465",
+      "hallucinated": true
+    },
+    {
+      "id": "17052",
+      "hallucinated": false
+    },
+    {
+      "id": "14512",
+      "hallucinated": false
+    },
+    {
+      "id": "14376",
+      "hallucinated": false
+    },
+    {
+      "id": "12915",
+      "hallucinated": false
+    },
+    {
+      "id": "12843",
+      "hallucinated": false
+    },
+    {
+      "id": "16120",
+      "hallucinated": false
+    },
+    {
+      "id": "14807",
+      "hallucinated": false
+    },
+    {
+      "id": "15672",
+      "hallucinated": false
+    },
+    {
+      "id": "12022",
+      "hallucinated": false
+    },
+    {
+      "id": "15175",
+      "hallucinated": false
+    },
+    {
+      "id": "17200",
+      "hallucinated": false
+    },
+    {
+      "id": "12263",
+      "hallucinated": false
+    },
+    {
+      "id": "12068",
+      "hallucinated": false
+    },
+    {
+      "id": "13341",
+      "hallucinated": false
+    },
+    {
+      "id": "14506",
+      "hallucinated": false
+    },
+    {
+      "id": "12707",
+      "hallucinated": false
+    },
+    {
+      "id": "15929",
+      "hallucinated": true
+    },
+    {
+      "id": "15651",
+      "hallucinated": true
+    },
+    {
+      "id": "12525",
+      "hallucinated": false
+    },
+    {
+      "id": "16454",
+      "hallucinated": false
+    },
+    {
+      "id": "12604",
+      "hallucinated": false
+    },
+    {
+      "id": "14509",
+      "hallucinated": false
+    },
+    {
+      "id": "12013",
+      "hallucinated": false
+    },
+    {
+      "id": "15716",
+      "hallucinated": true
+    },
+    {
+      "id": "15628",
+      "hallucinated": false
+    },
+    {
+      "id": "15751",
+      "hallucinated": false
+    },
+    {
+      "id": "16152",
+      "hallucinated": false
+    },
+    {
+      "id": "13152",
+      "hallucinated": false
+    },
+    {
+      "id": "12527",
+      "hallucinated": false
+    },
+    {
+      "id": "16420",
+      "hallucinated": true
+    },
+    {
+      "id": "14379",
+      "hallucinated": false
+    },
+    {
+      "id": "12020",
+      "hallucinated": false
+    },
+    {
+      "id": "12473",
+      "hallucinated": false
+    },
+    {
+      "id": "16770",
+      "hallucinated": false
+    },
+    {
+      "id": "14201",
+      "hallucinated": false
+    },
+    {
+      "id": "17570",
+      "hallucinated": false
+    },
+    {
+      "id": "12069",
+      "hallucinated": false
+    },
+    {
+      "id": "17116",
+      "hallucinated": false
+    },
+    {
+      "id": "12901",
+      "hallucinated": false
+    },
+    {
+      "id": "16879",
+      "hallucinated": false
+    },
+    {
+      "id": "11909",
+      "hallucinated": false
+    },
+    {
+      "id": "15199",
+      "hallucinated": false
+    },
+    {
+      "id": "14856",
+      "hallucinated": false
+    },
+    {
+      "id": "15777",
+      "hallucinated": true
+    },
+    {
+      "id": "13743",
+      "hallucinated": false
+    },
+    {
+      "id": "13433",
+      "hallucinated": false
+    },
+    {
+      "id": "17235",
+      "hallucinated": false
+    },
+    {
+      "id": "14744",
+      "hallucinated": false
+    },
+    {
+      "id": "17199",
+      "hallucinated": true
+    },
+    {
+      "id": "17280",
+      "hallucinated": false
+    },
+    {
+      "id": "15178",
+      "hallucinated": true
+    },
+    {
+      "id": "17103",
+      "hallucinated": false
+    },
+    {
+      "id": "14510",
+      "hallucinated": false
+    },
+    {
+      "id": "16154",
+      "hallucinated": false
+    },
+    {
+      "id": "17757",
+      "hallucinated": false
+    },
+    {
+      "id": "17759",
+      "hallucinated": false
+    },
+    {
+      "id": "15726",
+      "hallucinated": false
+    },
+    {
+      "id": "15709",
+      "hallucinated": false
+    },
+    {
+      "id": "16635",
+      "hallucinated": false
+    },
+    {
+      "id": "12012",
+      "hallucinated": false
+    },
+    {
+      "id": "14846",
+      "hallucinated": true
+    },
+    {
+      "id": "14468",
+      "hallucinated": false
+    },
+    {
+      "id": "14133",
+      "hallucinated": true
+    },
+    {
+      "id": "13721",
+      "hallucinated": false
+    },
+    {
+      "id": "14211",
+      "hallucinated": false
+    },
+    {
+      "id": "13561",
+      "hallucinated": false
+    },
+    {
+      "id": "14381",
+      "hallucinated": true
+    },
+    {
+      "id": "15966",
+      "hallucinated": false
+    },
+    {
+      "id": "15674",
+      "hallucinated": false
+    },
+    {
+      "id": "16358",
+      "hallucinated": false
+    },
+    {
+      "id": "12104",
+      "hallucinated": false
+    },
+    {
+      "id": "13339",
+      "hallucinated": false
+    },
+    {
+      "id": "15676",
+      "hallucinated": true
+    },
+    {
+      "id": "14704",
+      "hallucinated": false
+    },
+    {
+      "id": "17758",
+      "hallucinated": false
+    },
+    {
+      "id": "15627",
+      "hallucinated": false
+    },
+    {
+      "id": "12232",
+      "hallucinated": false
+    },
+    {
+      "id": "14848",
+      "hallucinated": false
+    },
+    {
+      "id": "13941",
+      "hallucinated": false
+    },
+    {
+      "id": "15717",
+      "hallucinated": false
+    },
+    {
+      "id": "13464",
+      "hallucinated": false
+    },
+    {
+      "id": "16418",
+      "hallucinated": true
+    },
+    {
+      "id": "12346",
+      "hallucinated": false
+    },
+    {
+      "id": "13234",
+      "hallucinated": false
+    },
+    {
+      "id": "14052",
+      "hallucinated": false
+    },
+    {
+      "id": "15711",
+      "hallucinated": false
+    },
+    {
+      "id": "12258",
+      "hallucinated": false
+    },
+    {
+      "id": "16848",
+      "hallucinated": false
+    },
+    {
+      "id": "16509",
+      "hallucinated": true
+    },
+    {
+      "id": "14096",
+      "hallucinated": false
+    },
+    {
+      "id": "15192",
+      "hallucinated": false
+    },
+    {
+      "id": "15204",
+      "hallucinated": false
+    },
+    {
+      "id": "16452",
+      "hallucinated": false
+    },
+    {
+      "id": "12519",
+      "hallucinated": false
+    },
+    {
+      "id": "14751",
+      "hallucinated": false
+    },
+    {
+      "id": "16798",
+      "hallucinated": true
+    },
+    {
+      "id": "14004",
+      "hallucinated": false
+    },
+    {
+      "id": "14295",
+      "hallucinated": true
+    },
+    {
+      "id": "14398",
+      "hallucinated": false
+    },
+    {
+      "id": "14702",
+      "hallucinated": true
+    },
+    {
+      "id": "12470",
+      "hallucinated": false
+    },
+    {
+      "id": "15203",
+      "hallucinated": false
+    },
+    {
+      "id": "15653",
+      "hallucinated": false
+    },
+    {
+      "id": "12444",
+      "hallucinated": false
+    },
+    {
+      "id": "17399",
+      "hallucinated": false
+    },
+    {
+      "id": "12344",
+      "hallucinated": false
+    },
+    {
+      "id": "15789",
+      "hallucinated": false
+    },
+    {
+      "id": "16147",
+      "hallucinated": false
+    },
+    {
+      "id": "16148",
+      "hallucinated": false
+    },
+    {
+      "id": "15552",
+      "hallucinated": false
+    },
+    {
+      "id": "16117",
+      "hallucinated": false
+    },
+    {
+      "id": "16905",
+      "hallucinated": false
+    },
+    {
+      "id": "17114",
+      "hallucinated": false
+    },
+    {
+      "id": "12704",
+      "hallucinated": false
+    },
+    {
+      "id": "15750",
+      "hallucinated": false
+    },
+    {
+      "id": "13107",
+      "hallucinated": true
+    },
+    {
+      "id": "15927",
+      "hallucinated": true
+    },
+    {
+      "id": "12472",
+      "hallucinated": false
+    },
+    {
+      "id": "13564",
+      "hallucinated": true
+    },
+    {
+      "id": "14998",
+      "hallucinated": false
+    },
+    {
+      "id": "17102",
+      "hallucinated": true
+    },
+    {
+      "id": "12556",
+      "hallucinated": false
+    },
+    {
+      "id": "16464",
+      "hallucinated": false
+    },
+    {
+      "id": "16056",
+      "hallucinated": true
+    },
+    {
+      "id": "13153",
+      "hallucinated": false
+    },
+    {
+      "id": "13492",
+      "hallucinated": false
+    },
+    {
+      "id": "14742",
+      "hallucinated": false
+    },
+    {
+      "id": "16506",
+      "hallucinated": false
+    },
+    {
+      "id": "14994",
+      "hallucinated": false
+    },
+    {
+      "id": "16907",
+      "hallucinated": false
+    },
+    {
+      "id": "17233",
+      "hallucinated": false
+    },
+    {
+      "id": "17516",
+      "hallucinated": false
+    },
+    {
+      "id": "13232",
+      "hallucinated": false
+    },
+    {
+      "id": "17281",
+      "hallucinated": false
+    },
+    {
+      "id": "15010",
+      "hallucinated": true
+    },
+    {
+      "id": "12295",
+      "hallucinated": false
+    },
+    {
+      "id": "12435",
+      "hallucinated": true
+    },
+    {
+      "id": "15971",
+      "hallucinated": true
+    },
+    {
+      "id": "12902",
+      "hallucinated": true
+    },
+    {
+      "id": "16457",
+      "hallucinated": false
+    },
+    {
+      "id": "13488",
+      "hallucinated": false
+    },
+    {
+      "id": "13560",
+      "hallucinated": false
+    },
+    {
+      "id": "13206",
+      "hallucinated": false
+    },
+    {
+      "id": "12135",
+      "hallucinated": false
+    },
+    {
+      "id": "13072",
+      "hallucinated": false
+    },
+    {
+      "id": "13428",
+      "hallucinated": false
+    },
+    {
+      "id": "13563",
+      "hallucinated": false
+    },
+    {
+      "id": "15787",
+      "hallucinated": false
+    },
+    {
+      "id": "12459",
+      "hallucinated": true
+    },
+    {
+      "id": "17252",
+      "hallucinated": false
+    },
+    {
+      "id": "12133",
+      "hallucinated": false
+    },
+    {
+      "id": "14053",
+      "hallucinated": false
+    },
+    {
+      "id": "17568",
+      "hallucinated": false
+    },
+    {
+      "id": "14776",
+      "hallucinated": false
+    },
+    {
+      "id": "14999",
+      "hallucinated": false
+    },
+    {
+      "id": "15688",
+      "hallucinated": true
+    },
+    {
+      "id": "12523",
+      "hallucinated": false
+    },
+    {
+      "id": "17062",
+      "hallucinated": false
+    },
+    {
+      "id": "12691",
+      "hallucinated": false
+    },
+    {
+      "id": "14502",
+      "hallucinated": false
+    },
+    {
+      "id": "15462",
+      "hallucinated": false
+    },
+    {
+      "id": "16560",
+      "hallucinated": false
+    },
+    {
+      "id": "15482",
+      "hallucinated": false
+    },
+    {
+      "id": "12229",
+      "hallucinated": false
+    },
+    {
+      "id": "15649",
+      "hallucinated": false
+    },
+    {
+      "id": "14396",
+      "hallucinated": true
+    },
+    {
+      "id": "15345",
+      "hallucinated": true
+    },
+    {
+      "id": "15008",
+      "hallucinated": true
+    },
+    {
+      "id": "12259",
+      "hallucinated": false
+    },
+    {
+      "id": "14466",
+      "hallucinated": false
+    },
+    {
+      "id": "12021",
+      "hallucinated": false
+    },
+    {
+      "id": "17517",
+      "hallucinated": false
+    },
+    {
+      "id": "14354",
+      "hallucinated": false
+    },
+    {
+      "id": "17112",
+      "hallucinated": false
+    },
+    {
+      "id": "15128",
+      "hallucinated": false
+    },
+    {
+      "id": "14774",
+      "hallucinated": false
+    },
+    {
+      "id": "15736",
+      "hallucinated": false
+    },
+    {
+      "id": "14743",
+      "hallucinated": false
+    },
+    {
+      "id": "15629",
+      "hallucinated": false
+    },
+    {
+      "id": "16775",
+      "hallucinated": true
+    },
+    {
+      "id": "17394",
+      "hallucinated": false
+    },
+    {
+      "id": "12181",
+      "hallucinated": false
+    },
+    {
+      "id": "14285",
+      "hallucinated": false
+    },
+    {
+      "id": "15126",
+      "hallucinated": false
+    },
+    {
+      "id": "16564",
+      "hallucinated": false
+    },
+    {
+      "id": "13445",
+      "hallucinated": false
+    },
+    {
+      "id": "15727",
+      "hallucinated": false
+    },
+    {
+      "id": "13440",
+      "hallucinated": false
+    },
+    {
+      "id": "14356",
+      "hallucinated": false
+    },
+    {
+      "id": "17113",
+      "hallucinated": false
+    },
+    {
+      "id": "15198",
+      "hallucinated": false
+    },
+    {
+      "id": "13909",
+      "hallucinated": false
+    },
+    {
+      "id": "14196",
+      "hallucinated": false
+    },
+    {
+      "id": "14816",
+      "hallucinated": false
+    },
+    {
+      "id": "17105",
+      "hallucinated": true
+    },
+    {
+      "id": "17236",
+      "hallucinated": false
+    },
+    {
+      "id": "16562",
+      "hallucinated": false
+    },
+    {
+      "id": "16795",
+      "hallucinated": false
+    },
+    {
+      "id": "15729",
+      "hallucinated": false
+    },
+    {
+      "id": "15719",
+      "hallucinated": false
+    },
+    {
+      "id": "13744",
+      "hallucinated": false
+    },
+    {
+      "id": "16881",
+      "hallucinated": true
+    },
+    {
+      "id": "13105",
+      "hallucinated": true
+    },
+    {
+      "id": "16360",
+      "hallucinated": true
+    },
+    {
+      "id": "14511",
+      "hallucinated": true
+    },
+    {
+      "id": "14281",
+      "hallucinated": false
+    },
+    {
+      "id": "13040",
+      "hallucinated": false
+    },
+    {
+      "id": "12440",
+      "hallucinated": false
+    },
+    {
+      "id": "16146",
+      "hallucinated": false
+    },
+    {
+      "id": "15713",
+      "hallucinated": true
+    },
+    {
+      "id": "15684",
+      "hallucinated": false
+    },
+    {
+      "id": "13378",
+      "hallucinated": false
+    },
+    {
+      "id": "12019",
+      "hallucinated": false
+    },
+    {
+      "id": "13491",
+      "hallucinated": false
+    },
+    {
+      "id": "16933",
+      "hallucinated": false
+    },
+    {
+      "id": "13039",
+      "hallucinated": false
+    },
+    {
+      "id": "14690",
+      "hallucinated": true
+    },
+    {
+      "id": "15710",
+      "hallucinated": false
+    },
+    {
+      "id": "12439",
+      "hallucinated": false
+    },
+    {
+      "id": "14135",
+      "hallucinated": true
+    },
+    {
+      "id": "15689",
+      "hallucinated": false
+    },
+    {
+      "id": "16904",
+      "hallucinated": false
+    },
+    {
+      "id": "12471",
+      "hallucinated": true
+    },
+    {
+      "id": "12228",
+      "hallucinated": false
+    },
+    {
+      "id": "13740",
+      "hallucinated": false
+    },
+    {
+      "id": "13343",
+      "hallucinated": false
+    },
+    {
+      "id": "13908",
+      "hallucinated": false
+    },
+    {
+      "id": "13108",
+      "hallucinated": true
+    },
+    {
+      "id": "12904",
+      "hallucinated": false
+    },
+    {
+      "id": "14056",
+      "hallucinated": false
+    },
+    {
+      "id": "14378",
+      "hallucinated": true
+    },
+    {
+      "id": "14505",
+      "hallucinated": false
+    },
+    {
+      "id": "12692",
+      "hallucinated": true
+    },
+    {
+      "id": "15931",
+      "hallucinated": false
+    },
+    {
+      "id": "17197",
+      "hallucinated": false
+    },
+    {
+      "id": "12042",
+      "hallucinated": false
+    },
+    {
+      "id": "16667",
+      "hallucinated": false
+    },
+    {
+      "id": "15201",
+      "hallucinated": true
+    },
+    {
+      "id": "17232",
+      "hallucinated": false
+    },
+    {
+      "id": "13362",
+      "hallucinated": false
+    },
+    {
+      "id": "15177",
+      "hallucinated": false
+    },
+    {
+      "id": "16665",
+      "hallucinated": false
+    },
+    {
+      "id": "16116",
+      "hallucinated": false
+    },
+    {
+      "id": "17250",
+      "hallucinated": false
+    },
+    {
+      "id": "12014",
+      "hallucinated": false
+    },
+    {
+      "id": "13939",
+      "hallucinated": false
+    },
+    {
+      "id": "13130",
+      "hallucinated": false
+    },
+    {
+      "id": "14891",
+      "hallucinated": false
+    },
+    {
+      "id": "15464",
+      "hallucinated": false
+    },
+    {
+      "id": "12844",
+      "hallucinated": false
+    },
+    {
+      "id": "13467",
+      "hallucinated": false
+    },
+    {
+      "id": "14094",
+      "hallucinated": false
+    },
+    {
+      "id": "16359",
+      "hallucinated": true
+    },
+    {
+      "id": "12619",
+      "hallucinated": false
+    },
+    {
+      "id": "15775",
+      "hallucinated": false
+    },
+    {
+      "id": "15755",
+      "hallucinated": true
+    },
+    {
+      "id": "15781",
+      "hallucinated": false
+    },
+    {
+      "id": "12102",
+      "hallucinated": false
+    },
+    {
+      "id": "12105",
+      "hallucinated": false
+    },
+    {
+      "id": "17282",
+      "hallucinated": false
+    },
+    {
+      "id": "16155",
+      "hallucinated": true
+    },
+    {
+      "id": "15752",
+      "hallucinated": false
+    },
+    {
+      "id": "15556",
+      "hallucinated": true
+    },
+    {
+      "id": "17101",
+      "hallucinated": false
+    },
+    {
+      "id": "13493",
+      "hallucinated": false
+    },
+    {
+      "id": "14889",
+      "hallucinated": false
+    },
+    {
+      "id": "14859",
+      "hallucinated": true
+    },
+    {
+      "id": "13443",
+      "hallucinated": false
+    },
+    {
+      "id": "16419",
+      "hallucinated": true
+    },
+    {
+      "id": "14703",
+      "hallucinated": false
+    },
+    {
+      "id": "13490",
+      "hallucinated": false
+    },
+    {
+      "id": "14327",
+      "hallucinated": false
+    },
+    {
+      "id": "13718",
+      "hallucinated": false
+    },
+    {
+      "id": "12242",
+      "hallucinated": false
+    },
+    {
+      "id": "13291",
+      "hallucinated": false
+    },
+    {
+      "id": "13231",
+      "hallucinated": false
+    },
+    {
+      "id": "16061",
+      "hallucinated": false
+    },
+    {
+      "id": "16901",
+      "hallucinated": false
+    },
+    {
+      "id": "12244",
+      "hallucinated": false
+    },
+    {
+      "id": "14705",
+      "hallucinated": false
+    },
+    {
+      "id": "15006",
+      "hallucinated": false
+    },
+    {
+      "id": "14503",
+      "hallucinated": false
+    },
+    {
+      "id": "15127",
+      "hallucinated": false
+    },
+    {
+      "id": "14055",
+      "hallucinated": false
+    },
+    {
+      "id": "15102",
+      "hallucinated": false
+    },
+    {
+      "id": "13312",
+      "hallucinated": false
+    },
+    {
+      "id": "15103",
+      "hallucinated": false
+    },
+    {
+      "id": "13377",
+      "hallucinated": false
+    },
+    {
+      "id": "12516",
+      "hallucinated": false
+    },
+    {
+      "id": "12137",
+      "hallucinated": false
+    },
+    {
+      "id": "12468",
+      "hallucinated": false
+    },
+    {
+      "id": "14861",
+      "hallucinated": false
+    },
+    {
+      "id": "14692",
+      "hallucinated": true
+    },
+    {
+      "id": "15554",
+      "hallucinated": false
+    },
+    {
+      "id": "14054",
+      "hallucinated": false
+    },
+    {
+      "id": "17567",
+      "hallucinated": false
+    },
+    {
+      "id": "15970",
+      "hallucinated": false
+    },
+    {
+      "id": "12703",
+      "hallucinated": false
+    },
+    {
+      "id": "14688",
+      "hallucinated": false
+    },
+    {
+      "id": "12045",
+      "hallucinated": true
+    },
+    {
+      "id": "17104",
+      "hallucinated": true
+    },
+    {
+      "id": "17285",
+      "hallucinated": false
+    },
+    {
+      "id": "12600",
+      "hallucinated": false
+    },
+    {
+      "id": "11908",
+      "hallucinated": true
+    },
+    {
+      "id": "13069",
+      "hallucinated": false
+    },
+    {
+      "id": "12183",
+      "hallucinated": false
+    },
+    {
+      "id": "16664",
+      "hallucinated": false
+    },
+    {
+      "id": "15457",
+      "hallucinated": false
+    },
+    {
+      "id": "15200",
+      "hallucinated": false
+    },
+    {
+      "id": "16057",
+      "hallucinated": false
+    },
+    {
+      "id": "12603",
+      "hallucinated": false
+    },
+    {
+      "id": "14366",
+      "hallucinated": false
+    },
+    {
+      "id": "16507",
+      "hallucinated": false
+    },
+    {
+      "id": "17283",
+      "hallucinated": true
+    },
+    {
+      "id": "12461",
+      "hallucinated": true
+    },
+    {
+      "id": "12766",
+      "hallucinated": false
+    },
+    {
+      "id": "14753",
+      "hallucinated": false
+    },
+    {
+      "id": "12458",
+      "hallucinated": true
+    },
+    {
+      "id": "16797",
+      "hallucinated": true
+    },
+    {
+      "id": "15176",
+      "hallucinated": false
+    },
+    {
+      "id": "15675",
+      "hallucinated": false
+    },
+    {
+      "id": "12219",
+      "hallucinated": true
+    },
+    {
+      "id": "17514",
+      "hallucinated": false
+    },
+    {
+      "id": "14765",
+      "hallucinated": true
+    },
+    {
+      "id": "15733",
+      "hallucinated": false
+    },
+    {
+      "id": "14322",
+      "hallucinated": false
+    },
+    {
+      "id": "12621",
+      "hallucinated": false
+    },
+    {
+      "id": "16156",
+      "hallucinated": false
+    },
+    {
+      "id": "12436",
+      "hallucinated": false
+    },
+    {
+      "id": "16799",
+      "hallucinated": false
+    },
+    {
+      "id": "13265",
+      "hallucinated": true
+    },
+    {
+      "id": "14804",
+      "hallucinated": false
+    },
+    {
+      "id": "14099",
+      "hallucinated": false
+    },
+    {
+      "id": "16688",
+      "hallucinated": false
+    },
+    {
+      "id": "12241",
+      "hallucinated": false
+    },
+    {
+      "id": "14397",
+      "hallucinated": true
+    },
+    {
+      "id": "12448",
+      "hallucinated": false
+    },
+    {
+      "id": "12765",
+      "hallucinated": true
+    },
+    {
+      "id": "13156",
+      "hallucinated": true
+    },
+    {
+      "id": "15343",
+      "hallucinated": false
+    },
+    {
+      "id": "15933",
+      "hallucinated": false
+    },
+    {
+      "id": "14507",
+      "hallucinated": false
+    },
+    {
+      "id": "14508",
+      "hallucinated": false
+    },
+    {
+      "id": "15555",
+      "hallucinated": true
+    },
+    {
+      "id": "16935",
+      "hallucinated": false
+    },
+    {
+      "id": "12518",
+      "hallucinated": true
+    },
+    {
+      "id": "17117",
+      "hallucinated": false
+    },
+    {
+      "id": "16634",
+      "hallucinated": false
+    },
+    {
+      "id": "12553",
+      "hallucinated": false
+    },
+    {
+      "id": "16936",
+      "hallucinated": false
+    },
+    {
+      "id": "15926",
+      "hallucinated": false
+    },
+    {
+      "id": "12443",
+      "hallucinated": false
+    },
+    {
+      "id": "14197",
+      "hallucinated": false
+    },
+    {
+      "id": "14297",
+      "hallucinated": true
+    },
+    {
+      "id": "13155",
+      "hallucinated": true
+    },
+    {
+      "id": "17198",
+      "hallucinated": false
+    },
+    {
+      "id": "13290",
+      "hallucinated": false
+    },
+    {
+      "id": "12331",
+      "hallucinated": false
+    },
+    {
+      "id": "16561",
+      "hallucinated": false
+    },
+    {
+      "id": "12240",
+      "hallucinated": false
+    },
+    {
+      "id": "12343",
+      "hallucinated": false
+    },
+    {
+      "id": "14844",
+      "hallucinated": false
+    },
+    {
+      "id": "13235",
+      "hallucinated": false
+    },
+    {
+      "id": "16508",
+      "hallucinated": false
+    },
+    {
+      "id": "14134",
+      "hallucinated": true
+    },
+    {
+      "id": "15776",
+      "hallucinated": false
+    },
+    {
+      "id": "16774",
+      "hallucinated": false
+    },
+    {
+      "id": "14887",
+      "hallucinated": false
+    },
+    {
+      "id": "12841",
+      "hallucinated": false
+    },
+    {
+      "id": "15734",
+      "hallucinated": false
+    },
+    {
+      "id": "15782",
+      "hallucinated": false
+    },
+    {
+      "id": "13138",
+      "hallucinated": false
+    },
+    {
+      "id": "17572",
+      "hallucinated": false
+    },
+    {
+      "id": "13129",
+      "hallucinated": false
+    },
+    {
+      "id": "14818",
+      "hallucinated": false
+    },
+    {
+      "id": "12763",
+      "hallucinated": false
+    },
+    {
+      "id": "12601",
+      "hallucinated": false
+    },
+    {
+      "id": "12297",
+      "hallucinated": true
+    },
+    {
+      "id": "13211",
+      "hallucinated": false
+    },
+    {
+      "id": "14996",
+      "hallucinated": false
+    },
+    {
+      "id": "15270",
+      "hallucinated": false
+    },
+    {
+      "id": "16151",
+      "hallucinated": false
+    },
+    {
+      "id": "16937",
+      "hallucinated": false
+    },
+    {
+      "id": "14815",
+      "hallucinated": false
+    },
+    {
+      "id": "16510",
+      "hallucinated": true
+    },
+    {
+      "id": "15208",
+      "hallucinated": false
+    },
+    {
+      "id": "15784",
+      "hallucinated": false
+    },
+    {
+      "id": "12066",
+      "hallucinated": false
+    },
+    {
+      "id": "16880",
+      "hallucinated": false
+    },
+    {
+      "id": "15737",
+      "hallucinated": false
+    },
+    {
+      "id": "16794",
+      "hallucinated": false
+    },
+    {
+      "id": "15483",
+      "hallucinated": false
+    },
+    {
+      "id": "12520",
+      "hallucinated": false
+    },
+    {
+      "id": "17563",
+      "hallucinated": false
+    },
+    {
+      "id": "14806",
+      "hallucinated": true
+    },
+    {
+      "id": "15626",
+      "hallucinated": false
+    },
+    {
+      "id": "13041",
+      "hallucinated": false
+    },
+    {
+      "id": "14282",
+      "hallucinated": false
+    },
+    {
+      "id": "12184",
+      "hallucinated": false
+    }
+  ]
+}

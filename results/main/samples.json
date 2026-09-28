@@ -1,0 +1,4814 @@
+{
+  "HaluEval": [
+    {
+      "id": "halueval-1629",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-2988",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5569",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-8874",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-9353",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1428",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-4855",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-3399",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-353",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-7979",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9841",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-7212",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1193",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-3674",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-51",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-6338",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-4379",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8401",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-4208",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9960",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-6983",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9123",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8725",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-3737",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-4312",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-2556",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-3356",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5507",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-4345",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3684",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-2745",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-6288",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1083",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1143",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9622",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-2567",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1396",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-9599",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-6168",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-6183",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-6181",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-8880",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-6516",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-9954",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-9787",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-2331",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5451",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1254",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-404",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-2614",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-7688",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8245",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5919",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3925",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-4503",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-4695",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3924",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-6010",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3959",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1857",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1791",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5751",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3518",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1549",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-5641",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9833",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9058",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-6821",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-9236",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3561",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1632",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-7501",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-4762",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-9079",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9398",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-9613",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5987",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-3550",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-7422",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-6173",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5856",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1323",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-4939",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-4370",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-2684",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8977",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-6592",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1278",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3476",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-7402",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-6598",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8851",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-4258",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-706",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-4445",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-5107",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-3325",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-2707",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-3672",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1774",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-7788",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-4143",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5368",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-3660",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1105",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-2648",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1050",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1501",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3855",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-7074",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-3841",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8149",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-5101",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-9135",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-522",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-890",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-991",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8893",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-6863",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-8783",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-6167",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3097",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1607",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-2212",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-745",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-5091",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3432",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-2174",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-7555",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-6873",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-434",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1890",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9683",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-3371",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-4001",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5251",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3200",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-2133",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1166",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-781",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-7452",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9998",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-524",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-9794",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-2762",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5604",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-4505",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-7162",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9134",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1126",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-2625",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-4251",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3762",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-6154",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3734",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-8747",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-479",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-8235",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-8694",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1982",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-8530",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-4300",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-4432",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8017",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9139",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-2492",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-185",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-2053",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-9871",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-9682",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5810",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-2287",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-4502",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-105",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-3534",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-8728",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-8888",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1524",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8367",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-4028",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-7492",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-8895",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8105",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1885",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-3598",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-6000",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1934",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-324",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-6969",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-7328",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1005",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-4402",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-6438",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-1079",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-1487",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-119",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-5165",
+      "hallucinated": false
+    },
+    {
+      "id": "halueval-8699",
+      "hallucinated": true
+    },
+    {
+      "id": "halueval-9640",
+      "hallucinated": true
+    }
+  ],
+  "RAGTruth": [
+    {
+      "id": "13262",
+      "hallucinated": true
+    },
+    {
+      "id": "17254",
+      "hallucinated": false
+    },
+    {
+      "id": "15456",
+      "hallucinated": false
+    },
+    {
+      "id": "15677",
+      "hallucinated": true
+    },
+    {
+      "id": "11904",
+      "hallucinated": false
+    },
+    {
+      "id": "14364",
+      "hallucinated": false
+    },
+    {
+      "id": "15467",
+      "hallucinated": false
+    },
+    {
+      "id": "13466",
+      "hallucinated": false
+    },
+    {
+      "id": "16906",
+      "hallucinated": false
+    },
+    {
+      "id": "15673",
+      "hallucinated": false
+    },
+    {
+      "id": "13342",
+      "hallucinated": true
+    },
+    {
+      "id": "13128",
+      "hallucinated": false
+    },
+    {
+      "id": "13444",
+      "hallucinated": false
+    },
+    {
+      "id": "13940",
+      "hallucinated": false
+    },
+    {
+      "id": "12018",
+      "hallucinated": false
+    },
+    {
+      "id": "15686",
+      "hallucinated": false
+    },
+    {
+      "id": "12557",
+      "hallucinated": false
+    },
+    {
+      "id": "15904",
+      "hallucinated": false
+    },
+    {
+      "id": "16850",
+      "hallucinated": false
+    },
+    {
+      "id": "12441",
+      "hallucinated": false
+    },
+    {
+      "id": "15652",
+      "hallucinated": false
+    },
+    {
+      "id": "13071",
+      "hallucinated": false
+    },
+    {
+      "id": "13038",
+      "hallucinated": false
+    },
+    {
+      "id": "13489",
+      "hallucinated": false
+    },
+    {
+      "id": "14365",
+      "hallucinated": false
+    },
+    {
+      "id": "14847",
+      "hallucinated": false
+    },
+    {
+      "id": "12623",
+      "hallucinated": false
+    },
+    {
+      "id": "14715",
+      "hallucinated": true
+    },
+    {
+      "id": "15791",
+      "hallucinated": false
+    },
+    {
+      "id": "12618",
+      "hallucinated": false
+    },
+    {
+      "id": "17237",
+      "hallucinated": false
+    },
+    {
+      "id": "12447",
+      "hallucinated": false
+    },
+    {
+      "id": "13310",
+      "hallucinated": false
+    },
+    {
+      "id": "12067",
+      "hallucinated": false
+    },
+    {
+      "id": "16883",
+      "hallucinated": true
+    },
+    {
+      "id": "13157",
+      "hallucinated": true
+    },
+    {
+      "id": "12693",
+      "hallucinated": true
+    },
+    {
+      "id": "12845",
+      "hallucinated": false
+    },
+    {
+      "id": "15935",
+      "hallucinated": false
+    },
+    {
+      "id": "14772",
+      "hallucinated": false
+    },
+    {
+      "id": "16637",
+      "hallucinated": false
+    },
+    {
+      "id": "16469",
+      "hallucinated": true
+    },
+    {
+      "id": "13431",
+      "hallucinated": false
+    },
+    {
+      "id": "13918",
+      "hallucinated": false
+    },
+    {
+      "id": "12221",
+      "hallucinated": false
+    },
+    {
+      "id": "16118",
+      "hallucinated": false
+    },
+    {
+      "id": "12449",
+      "hallucinated": true
+    },
+    {
+      "id": "16772",
+      "hallucinated": false
+    },
+    {
+      "id": "12260",
+      "hallucinated": true
+    },
+    {
+      "id": "14716",
+      "hallucinated": false
+    },
+    {
+      "id": "12552",
+      "hallucinated": false
+    },
+    {
+      "id": "17754",
+      "hallucinated": false
+    },
+    {
+      "id": "16893",
+      "hallucinated": false
+    },
+    {
+      "id": "14007",
+      "hallucinated": true
+    },
+    {
+      "id": "14009",
+      "hallucinated": false
+    },
+    {
+      "id": "14132",
+      "hallucinated": false
+    },
+    {
+      "id": "12335",
+      "hallucinated": false
+    },
+    {
+      "id": "13104",
+      "hallucinated": false
+    },
+    {
+      "id": "13375",
+      "hallucinated": false
+    },
+    {
+      "id": "16455",
+      "hallucinated": false
+    },
+    {
+      "id": "12554",
+      "hallucinated": false
+    },
+    {
+      "id": "14747",
+      "hallucinated": false
+    },
+    {
+      "id": "12332",
+      "hallucinated": false
+    },
+    {
+      "id": "13914",
+      "hallucinated": false
+    },
+    {
+      "id": "14773",
+      "hallucinated": false
+    },
+    {
+      "id": "15730",
+      "hallucinated": false
+    },
+    {
+      "id": "13562",
+      "hallucinated": false
+    },
+    {
+      "id": "14290",
+      "hallucinated": true
+    },
+    {
+      "id": "12132",
+      "hallucinated": false
+    },
+    {
+      "id": "12044",
+      "hallucinated": true
+    },
+    {
+      "id": "12842",
+      "hallucinated": true
+    },
+    {
+      "id": "12433",
+      "hallucinated": false
+    },
+    {
+      "id": "16361",
+      "hallucinated": false
+    },
+    {
+      "id": "12245",
+      "hallucinated": false
+    },
+    {
+      "id": "17519",
+      "hallucinated": false
+    },
+    {
+      "id": "16903",
+      "hallucinated": false
+    },
+    {
+      "id": "12840",
+      "hallucinated": false
+    },
+    {
+      "id": "13106",
+      "hallucinated": false
+    },
+    {
+      "id": "15785",
+      "hallucinated": false
+    },
+    {
+      "id": "17396",
+      "hallucinated": false
+    },
+    {
+      "id": "13261",
+      "hallucinated": false
+    },
+    {
+      "id": "16632",
+      "hallucinated": false
+    },
+    {
+      "id": "17569",
+      "hallucinated": false
+    },
+    {
+      "id": "14819",
+      "hallucinated": false
+    },
+    {
+      "id": "17566",
+      "hallucinated": false
+    },
+    {
+      "id": "14712",
+      "hallucinated": false
+    },
+    {
+      "id": "15553",
+      "hallucinated": false
+    },
+    {
+      "id": "12434",
+      "hallucinated": false
+    },
+    {
+      "id": "13293",
+      "hallucinated": true
+    },
+    {
+      "id": "15275",
+      "hallucinated": false
+    },
+    {
+      "id": "13915",
+      "hallucinated": false
+    },
+    {
+      "id": "12296",
+      "hallucinated": false
+    },
+    {
+      "id": "14325",
+      "hallucinated": false
+    },
+    {
+      "id": "14761",
+      "hallucinated": false
+    },
+    {
+      "id": "14284",
+      "hallucinated": true
+    },
+    {
+      "id": "14750",
+      "hallucinated": false
+    },
+    {
+      "id": "13068",
+      "hallucinated": false
+    },
+    {
+      "id": "11907",
+      "hallucinated": false
+    },
+    {
+      "id": "13565",
+      "hallucinated": false
+    },
+    {
+      "id": "12903",
+      "hallucinated": true
+    },
+    {
+      "id": "13533",
+      "hallucinated": false
+    },
+    {
+      "id": "17100",
+      "hallucinated": false
+    },
+    {
+      "id": "12524",
+      "hallucinated": false
+    },
+    {
+      "id": "13465",
+      "hallucinated": false
+    },
+    {
+      "id": "12218",
+      "hallucinated": false
+    },
+    {
+      "id": "13720",
+      "hallucinated": false
+    },
+    {
+      "id": "12243",
+      "hallucinated": false
+    },
+    {
+      "id": "13442",
+      "hallucinated": true
+    },
+    {
+      "id": "15754",
+      "hallucinated": false
+    },
+    {
+      "id": "15347",
+      "hallucinated": false
+    },
+    {
+      "id": "14467",
+      "hallucinated": false
+    },
+    {
+      "id": "13158",
+      "hallucinated": false
+    },
+    {
+      "id": "13938",
+      "hallucinated": false
+    },
+    {
+      "id": "16059",
+      "hallucinated": false
+    },
+    {
+      "id": "15197",
+      "hallucinated": false
+    },
+    {
+      "id": "12261",
+      "hallucinated": true
+    },
+    {
+      "id": "14762",
+      "hallucinated": false
+    },
+    {
+      "id": "15905",
+      "hallucinated": false
+    },
+    {
+      "id": "15790",
+      "hallucinated": false
+    },
+    {
+      "id": "12262",
+      "hallucinated": true
+    },
+    {
+      "id": "16773",
+      "hallucinated": false
+    },
+    {
+      "id": "13134",
+      "hallucinated": false
+    },
+    {
+      "id": "12333",
+      "hallucinated": false
+    },
+    {
+      "id": "12517",
+      "hallucinated": false
+    },
+    {
+      "id": "13136",
+      "hallucinated": true
+    },
+    {
+      "id": "17061",
+      "hallucinated": false
+    },
+    {
+      "id": "14326",
+      "hallucinated": false
+    },
+    {
+      "id": "14849",
+      "hallucinated": false
+    },
+    {
+      "id": "14287",
+      "hallucinated": false
+    },
+    {
+      "id": "17395",
+      "hallucinated": false
+    },
+    {
+      "id": "16851",
+      "hallucinated": true
+    },
+    {
+      "id": "16898",
+      "hallucinated": true
+    },
+    {
+      "id": "13308",
+      "hallucinated": false
+    },
+    {
+      "id": "15272",
+      "hallucinated": false
+    },
+    {
+      "id": "14691",
+      "hallucinated": false
+    },
+    {
+      "id": "13073",
+      "hallucinated": false
+    },
+    {
+      "id": "15459",
+      "hallucinated": false
+    },
+    {
+      "id": "13469",
+      "hallucinated": true
+    },
+    {
+      "id": "14713",
+      "hallucinated": false
+    },
+    {
+      "id": "12047",
+      "hallucinated": false
+    },
+    {
+      "id": "15131",
+      "hallucinated": false
+    },
+    {
+      "id": "15969",
+      "hallucinated": false
+    },
+    {
+      "id": "15193",
+      "hallucinated": false
+    },
+    {
+      "id": "16900",
+      "hallucinated": false
+    },
+    {
+      "id": "12767",
+      "hallucinated": false
+    },
+    {
+      "id": "13534",
+      "hallucinated": false
+    },
+    {
+      "id": "14294",
+      "hallucinated": false
+    },
+    {
+      "id": "14717",
+      "hallucinated": true
+    },
+    {
+      "id": "15786",
+      "hallucinated": false
+    },
+    {
+      "id": "15466",
+      "hallucinated": true
+    },
+    {
+      "id": "17115",
+      "hallucinated": false
+    },
+    {
+      "id": "16666",
+      "hallucinated": false
+    },
+    {
+      "id": "12622",
+      "hallucinated": false
+    },
+    {
+      "id": "16636",
+      "hallucinated": false
+    },
+    {
+      "id": "16878",
+      "hallucinated": false
+    },
+    {
+      "id": "16060",
+      "hallucinated": true
+    },
+    {
+      "id": "15715",
+      "hallucinated": false
+    },
+    {
+      "id": "12694",
+      "hallucinated": true
+    },
+    {
+      "id": "17255",
+      "hallucinated": true
+    },
+    {
+      "id": "17571",
+      "hallucinated": false
+    },
+    {
+      "id": "14199",
+      "hallucinated": false
+    },
+    {
+      "id": "17053",
+      "hallucinated": false
+    },
+    {
+      "id": "13364",
+      "hallucinated": false
+    },
+    {
+      "id": "14777",
+      "hallucinated": false
+    },
+    {
+      "id": "14210",
+      "hallucinated": false
+    },
+    {
+      "id": "17054",
+      "hallucinated": false
+    },
+    {
+      "id": "16852",
+      "hallucinated": true
+    },
+    {
+      "id": "15105",
+      "hallucinated": false
+    },
+    {
+      "id": "15107",
+      "hallucinated": false
+    },
+    {
+      "id": "15902",
+      "hallucinated": false
+    },
+    {
+      "id": "16662",
+      "hallucinated": false
+    },
+    {
+      "id": "12216",
+      "hallucinated": false
+    },
+    {
+      "id": "16149",
+      "hallucinated": false
+    },
+    {
+      "id": "17060",
+      "hallucinated": true
+    },
+    {
+      "id": "16421",
+      "hallucinated": true
+    },
+    {
+      "id": "13910",
+      "hallucinated": true
+    },
+    {
+      "id": "15968",
+      "hallucinated": false
+    },
+    {
+      "id": "15714",
+      "hallucinated": false
+    },
+    {
+      "id": "16456",
+      "hallucinated": false
+    },
+    {
+      "id": "14470",
+      "hallucinated": false
+    },
+    {
+      "id": "15788",
+      "hallucinated": false
+    },
+    {
+      "id": "13374",
+      "hallucinated": false
+    },
+    {
+      "id": "16934",
+      "hallucinated": false
+    },
+    {
+      "id": "13913",
+      "hallucinated": false
+    },
+    {
+      "id": "16891",
+      "hallucinated": false
+    },
+    {
+      "id": "13532",
+      "hallucinated": true
+    },
+    {
+      "id": "16896",
+      "hallucinated": false
+    },
+    {
+      "id": "16563",
+      "hallucinated": false
+    },
+    {
+      "id": "16686",
+      "hallucinated": false
+    },
+    {
+      "id": "17196",
+      "hallucinated": false
+    },
+    {
+      "id": "13160",
+      "hallucinated": true
+    },
+    {
+      "id": "16890",
+      "hallucinated": false
+    },
+    {
+      "id": "17063",
+      "hallucinated": false
+    },
+    {
+      "id": "12299",
+      "hallucinated": false
+    },
+    {
+      "id": "15732",
+      "hallucinated": false
+    },
+    {
+      "id": "14504",
+      "hallucinated": false
+    },
+    {
+      "id": "13716",
+      "hallucinated": false
+    },
+    {
+      "id": "12702",
+      "hallucinated": false
+    },
+    {
+      "id": "16932",
+      "hallucinated": false
+    },
+    {
+      "id": "15485",
+      "hallucinated": true
+    }
+  ],
+  "FinanceBench": [
+    {
+      "id": "financebench_id_07197",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_06874",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_08941",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_03218",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02614",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_08594",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_06182",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03555",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_03547",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_10038",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03554",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_08154",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_02038",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_08831",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_00245",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_06132",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_08416",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09944",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03607",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_10529",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_10087",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03922",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09458",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09782",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_09607",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_06350",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09586",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03058",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_07459",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_06016",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_02596",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02766",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_04691",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_00691",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07909",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_07474",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_07861",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_03959",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_10449",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_05992",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_03948",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02468",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_09891",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_01625",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_09790",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_08568",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03916",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_00544",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_01870",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_03656",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_09054",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09503",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_01856",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_09730",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_10002",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_04212",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_05296",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_08974",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_09364",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02506",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_10540",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_06295",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_01196",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_02893",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_01031",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03008",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_06967",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_07405",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_07081",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_05127",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_10519",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_10324",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_06836",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02530",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09056",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_08011",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_04810",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07399",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_09733",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09946",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_08435",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_00389",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_00527",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_00371",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03239",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03942",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_06474",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09000",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02313",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_08947",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_06546",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03603",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_06673",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_06663",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_10238",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_03231",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_01178",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_02237",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_04587",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07167",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_01440",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09119",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03605",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_05193",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02971",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02030",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_10411",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02598",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_04130",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_01720",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_00976",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09904",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07275",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_03012",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_08200",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_06782",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_04755",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_00353",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_05827",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_02600",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_04280",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_10264",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_06697",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_07149",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02549",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_06716",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_03649",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_08359",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_10502",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03616",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_08050",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_04133",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_03957",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03206",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_10378",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_03900",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_02466",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_04743",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_00221",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_05560",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_05537",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03988",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_04236",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_05608",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_07176",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_06356",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_01317",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07840",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_04757",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07422",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_07010",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_04486",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_07493",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_07299",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09836",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_03901",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_05918",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_08592",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_07956",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_01624",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03452",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_06444",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_01359",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_08790",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07025",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_02566",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_06996",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_09591",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_08514",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07331",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_09033",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_05761",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_00162",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02161",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_05794",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_02852",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_00747",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_04258",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_02844",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07760",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_06140",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_08148",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_10245",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_00911",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_05086",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03529",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_05085",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_09498",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_01956",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07130",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_05781",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_05288",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_10546",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_03365",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_08455",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07885",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_05271",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_07920",
+      "hallucinated": false
+    },
+    {
+      "id": "financebench_id_08928",
+      "hallucinated": true
+    },
+    {
+      "id": "financebench_id_10452",
+      "hallucinated": true
+    }
+  ],
+  "DROP": [
+    {
+      "id": "4394ea14-887c-4415-86c2-446477fbbe9f",
+      "hallucinated": true
+    },
+    {
+      "id": "71624cc5-fbbd-46f8-8d62-f82d8f955c7b",
+      "hallucinated": false
+    },
+    {
+      "id": "d4fa9d06-f2c2-45d2-b74f-c68f09773f35",
+      "hallucinated": true
+    },
+    {
+      "id": "f466f6ff-52c1-41d2-aabf-45adc57527fa",
+      "hallucinated": true
+    },
+    {
+      "id": "fcc6f355-a800-45f9-85db-1bb4a18891bc",
+      "hallucinated": false
+    },
+    {
+      "id": "315fb73b-be30-469f-be1a-5c8d041d4a72",
+      "hallucinated": false
+    },
+    {
+      "id": "4d9f0afd-1b3e-4d42-a932-c8473eb1976e",
+      "hallucinated": false
+    },
+    {
+      "id": "72b36a37-0a7d-4ff5-9ddd-ae6974c3017d",
+      "hallucinated": true
+    },
+    {
+      "id": "f8bfd384-f40f-418f-906e-3a0a88ef13dc",
+      "hallucinated": false
+    },
+    {
+      "id": "3b669f59-b2b6-4fc5-ac77-1206cadd4ee5",
+      "hallucinated": false
+    },
+    {
+      "id": "660cbd19-c845-4ba4-9921-671d15dbcaa3",
+      "hallucinated": true
+    },
+    {
+      "id": "c92cab37-54e0-4ac6-aa5a-30699d8dbe3e",
+      "hallucinated": false
+    },
+    {
+      "id": "43a3d918-2f8f-4b24-9f03-a7052902c8a3",
+      "hallucinated": false
+    },
+    {
+      "id": "5595edf6-a416-4542-9d4f-8142a302d456",
+      "hallucinated": true
+    },
+    {
+      "id": "c4cbe0af-7def-4e26-8591-fc3f3b3c1876",
+      "hallucinated": false
+    },
+    {
+      "id": "1d96b4a4-f313-46e3-938f-06bb63844e5d",
+      "hallucinated": false
+    },
+    {
+      "id": "8877b8e4-ee16-4d3b-a2e3-397f1c0d4832",
+      "hallucinated": false
+    },
+    {
+      "id": "d311a72e-e36e-42e9-a66d-a81a84b703a8",
+      "hallucinated": false
+    },
+    {
+      "id": "7b8ea23a-684b-44d4-9fad-d86a7d579b88",
+      "hallucinated": false
+    },
+    {
+      "id": "7a2dc15d-dad5-4886-96f1-5d67686bad09",
+      "hallucinated": false
+    },
+    {
+      "id": "90966b46-d206-47de-b8ec-30ebb219ff7d",
+      "hallucinated": false
+    },
+    {
+      "id": "1161bec4-a906-4800-8a6b-6e0476050e88",
+      "hallucinated": false
+    },
+    {
+      "id": "386b3cf6-6868-4d5f-971b-9d7c02c7a5f2",
+      "hallucinated": false
+    },
+    {
+      "id": "d839e94f-eb4d-4ec7-bd26-452932ece225",
+      "hallucinated": true
+    },
+    {
+      "id": "88633537-4589-4d6f-bd40-cbf09e57facb",
+      "hallucinated": true
+    },
+    {
+      "id": "9ed332d1-8f75-422d-9e98-c3ce311d9996",
+      "hallucinated": false
+    },
+    {
+      "id": "d7c74a2c-4789-4087-8aa4-3b637acb285e",
+      "hallucinated": false
+    },
+    {
+      "id": "f9770f3c-8190-4253-9ad0-4363ceb1fae2",
+      "hallucinated": true
+    },
+    {
+      "id": "8e69e590-5608-4850-8023-a60d5beef76e",
+      "hallucinated": true
+    },
+    {
+      "id": "874e3050-9118-4edd-b2d4-744105572c9d",
+      "hallucinated": false
+    },
+    {
+      "id": "9c8b5c4e-d91a-45dd-ad85-bac67d0d8b60",
+      "hallucinated": true
+    },
+    {
+      "id": "a6494106-cc70-4651-ad58-a6afab470d4e",
+      "hallucinated": false
+    },
+    {
+      "id": "9dcbd66c-c2e8-4a1a-91df-41e81cc32210",
+      "hallucinated": false
+    },
+    {
+      "id": "9e61e8dc-0d31-4739-aebe-7fae7a767823",
+      "hallucinated": false
+    },
+    {
+      "id": "3d22ced5-5b49-473d-8fce-ffdbaafb5df5",
+      "hallucinated": true
+    },
+    {
+      "id": "e6ecba1b-691f-4f53-a231-d1a4cc96c669",
+      "hallucinated": true
+    },
+    {
+      "id": "6a1259c1-5a0a-4ca1-b189-7964b0524ae9",
+      "hallucinated": true
+    },
+    {
+      "id": "92510f57-e63a-4f5d-bde1-3ad6a42904af",
+      "hallucinated": false
+    },
+    {
+      "id": "7642a79f-c906-4e0c-aa6b-78cda7c0e0a9",
+      "hallucinated": false
+    },
+    {
+      "id": "3d72d20b-7dc6-497b-bef2-f55de8e5f075",
+      "hallucinated": true
+    },
+    {
+      "id": "a582cd29-eb05-4462-b1ce-bfd5bea6f9d2",
+      "hallucinated": true
+    },
+    {
+      "id": "261a1db7-19e2-4ab5-b557-ca7d7209549e",
+      "hallucinated": true
+    },
+    {
+      "id": "285b820f-1b03-4fb0-bff0-e3474065c323",
+      "hallucinated": true
+    },
+    {
+      "id": "34de1435-4f45-49ed-acec-29a373aad0cd",
+      "hallucinated": true
+    },
+    {
+      "id": "f76a5fdf-8919-4b98-92cc-59db7882bacb",
+      "hallucinated": false
+    },
+    {
+      "id": "cbe5b6c4-47bb-4239-b8e4-0f2377913f44",
+      "hallucinated": false
+    },
+    {
+      "id": "a3913ea2-6092-4768-989c-a3d4c2a81c60",
+      "hallucinated": true
+    },
+    {
+      "id": "db5918c1-1e6e-4f76-bc57-6b9412d60176",
+      "hallucinated": true
+    },
+    {
+      "id": "16916544-1e32-4dc2-affb-924530416d96",
+      "hallucinated": true
+    },
+    {
+      "id": "17f52fd9-807f-4429-804c-0f044cd81319",
+      "hallucinated": true
+    },
+    {
+      "id": "68cb63f5-fa43-4a8b-b8ba-c685ad5774b6",
+      "hallucinated": false
+    },
+    {
+      "id": "6c263de4-bbae-430d-b379-4bbff39d4b53",
+      "hallucinated": false
+    },
+    {
+      "id": "13c6b87f-9bcf-4928-9b6c-138b43560a33",
+      "hallucinated": true
+    },
+    {
+      "id": "e9a97fb5-ffde-4877-af7a-b030a8b0bfa2",
+      "hallucinated": true
+    },
+    {
+      "id": "08e9ea82-f8a7-4069-b453-f907ad73a388",
+      "hallucinated": true
+    },
+    {
+      "id": "b6d462f0-70ce-4f0f-98d8-65ca5767e583",
+      "hallucinated": true
+    },
+    {
+      "id": "284dae0c-53fa-4b20-8162-37028792481c",
+      "hallucinated": true
+    },
+    {
+      "id": "e406d360-a2ee-4276-b041-c54746fb2352",
+      "hallucinated": true
+    },
+    {
+      "id": "880cd947-88aa-4a28-ac09-4fc6425899c7",
+      "hallucinated": true
+    },
+    {
+      "id": "c6bce289-1649-47cf-93df-29ebd80d41ed",
+      "hallucinated": false
+    },
+    {
+      "id": "18af9653-d848-4edd-ac57-fd75aa679c0f",
+      "hallucinated": false
+    },
+    {
+      "id": "02254a93-0cac-4576-b192-5d46b9b683e9",
+      "hallucinated": true
+    },
+    {
+      "id": "21115a01-56ba-4818-aff9-bb6cafea2a32",
+      "hallucinated": false
+    },
+    {
+      "id": "52db14ed-5426-46ec-b0ae-4ef843b2d692",
+      "hallucinated": true
+    },
+    {
+      "id": "0aaeaa66-b678-4564-a364-6ffeb76af11f",
+      "hallucinated": false
+    },
+    {
+      "id": "96ce20a7-8856-4856-98c6-ddfcff5fad55",
+      "hallucinated": false
+    },
+    {
+      "id": "7185e8c4-2d58-413a-8b7d-5081dedeeeaa",
+      "hallucinated": true
+    },
+    {
+      "id": "479065fe-7b69-4cdf-a6ab-a72081f5fd3d",
+      "hallucinated": true
+    },
+    {
+      "id": "7aaff956-dc28-4985-bbae-55aec0665651",
+      "hallucinated": true
+    },
+    {
+      "id": "1324d9c2-d84d-4666-9a3c-55db9b2dd15b",
+      "hallucinated": true
+    },
+    {
+      "id": "67568761-a7fa-48a7-8c66-401eb023758d",
+      "hallucinated": true
+    },
+    {
+      "id": "7c968b39-bdd0-4cee-81fc-8c0d8b7fab03",
+      "hallucinated": true
+    },
+    {
+      "id": "267cf189-5762-4353-aed5-4bcafaf85cec",
+      "hallucinated": true
+    },
+    {
+      "id": "5dc37d3d-4702-4f94-9f77-f1145f8e2c65",
+      "hallucinated": false
+    },
+    {
+      "id": "4aea3071-847c-48d5-bd4d-5dd3e6ea21da",
+      "hallucinated": true
+    },
+    {
+      "id": "5c379ccb-20e5-4555-a750-f3d8408abf7a",
+      "hallucinated": false
+    },
+    {
+      "id": "1d664e98-a0ea-42bd-b031-3e76383f5b0e",
+      "hallucinated": false
+    },
+    {
+      "id": "938f880f-9057-45c8-ae67-f599b5e003e0",
+      "hallucinated": true
+    },
+    {
+      "id": "c0ec9219-11c7-4a59-aedb-fc06a6e20f3a",
+      "hallucinated": false
+    },
+    {
+      "id": "7d8a4eea-d804-4ce6-8c0e-110bc9d47345",
+      "hallucinated": false
+    },
+    {
+      "id": "09296b1d-c3a6-46c0-8513-1b78e6c8693c",
+      "hallucinated": true
+    },
+    {
+      "id": "4a39a645-d27a-47c1-bb52-a34d895ae32c",
+      "hallucinated": false
+    },
+    {
+      "id": "c5f4258c-d2bc-4f3f-8e93-d9665d9b7c60",
+      "hallucinated": false
+    },
+    {
+      "id": "ac7f9505-15a1-4785-831a-321b0878203d",
+      "hallucinated": false
+    },
+    {
+      "id": "f4eb58d7-1f8c-401e-9293-7e1048e1d639",
+      "hallucinated": false
+    },
+    {
+      "id": "29743cc3-2f6d-409d-b19a-826ad46c496d",
+      "hallucinated": true
+    },
+    {
+      "id": "8eba957c-9814-411f-b488-5f3f4719de06",
+      "hallucinated": false
+    },
+    {
+      "id": "18e03854-da58-4962-bb92-2956416ed674",
+      "hallucinated": true
+    },
+    {
+      "id": "dc0bbfc9-cd80-4a0d-b700-251bc9fd603e",
+      "hallucinated": true
+    },
+    {
+      "id": "ab51eead-e233-4a61-8c21-2de32e82af47",
+      "hallucinated": true
+    },
+    {
+      "id": "efd16c22-94eb-4db7-b583-5ffd11fb92b7",
+      "hallucinated": false
+    },
+    {
+      "id": "3d39df5b-dc6e-4124-86f4-1cd72789f9f1",
+      "hallucinated": false
+    },
+    {
+      "id": "56de82fb-1139-4391-b543-49f472096114",
+      "hallucinated": true
+    },
+    {
+      "id": "c1bb7b86-5835-4cd1-95d3-73c86cdadd1c",
+      "hallucinated": true
+    },
+    {
+      "id": "70ff6095-aab3-45ad-83d0-03a302345f66",
+      "hallucinated": true
+    },
+    {
+      "id": "39c7dc77-89fe-4bdf-83a2-dbbb6158d5b7",
+      "hallucinated": false
+    },
+    {
+      "id": "93944496-8d4b-49d5-8c78-a4f1ac8c544a",
+      "hallucinated": false
+    },
+    {
+      "id": "5aa72148-68b8-40fa-87b5-d0a0dea0c8a7",
+      "hallucinated": false
+    },
+    {
+      "id": "451fa52b-2739-4440-81a1-ce4cf1438ec9",
+      "hallucinated": false
+    },
+    {
+      "id": "703bf5bd-593a-47ec-9e70-acba88d6bbac",
+      "hallucinated": true
+    },
+    {
+      "id": "8b86fd00-3c04-4b25-b003-6b33615f4fae",
+      "hallucinated": false
+    },
+    {
+      "id": "f4c40fd5-806b-4771-895c-eec064d363b8",
+      "hallucinated": false
+    },
+    {
+      "id": "cf7eac4d-8a9c-4ef3-aea6-ed134b264d2d",
+      "hallucinated": false
+    },
+    {
+      "id": "278601c1-f1ca-43a4-8590-1da4254ff2f2",
+      "hallucinated": true
+    },
+    {
+      "id": "695f6260-c923-4458-8ea5-989b6b8a4b03",
+      "hallucinated": true
+    },
+    {
+      "id": "28e93cf7-0aa5-4b24-9b81-e93f4fd60f38",
+      "hallucinated": false
+    },
+    {
+      "id": "4d5c4d1e-1092-4460-a082-e3659927e497",
+      "hallucinated": true
+    },
+    {
+      "id": "ad522de7-f0cd-495b-b0ce-b81457f24187",
+      "hallucinated": true
+    },
+    {
+      "id": "83f35bcd-9274-4180-8002-433900918804",
+      "hallucinated": false
+    },
+    {
+      "id": "3f33d8fc-7e18-4b5d-b0d1-9c120a3e5ead",
+      "hallucinated": false
+    },
+    {
+      "id": "88d02bb1-f951-464c-ab57-eba64c5ed475",
+      "hallucinated": false
+    },
+    {
+      "id": "39b1772e-28ba-44d4-be18-52f24d87bf09",
+      "hallucinated": false
+    },
+    {
+      "id": "f7b03d43-5a32-4e8c-ba9d-b1ef65777133",
+      "hallucinated": true
+    },
+    {
+      "id": "f2ebe6ee-8650-44ab-b657-0456074bb882",
+      "hallucinated": true
+    },
+    {
+      "id": "e9dd25fd-2870-4286-97b9-b021764e00ed",
+      "hallucinated": false
+    },
+    {
+      "id": "3dac61a6-8088-4e30-9865-9fc7834f5d3c",
+      "hallucinated": true
+    },
+    {
+      "id": "2e8ed938-6129-461a-9fee-5e0f21b09f93",
+      "hallucinated": true
+    },
+    {
+      "id": "cd7ee9cd-a91c-491a-bce8-2b3e8f87fd9b",
+      "hallucinated": false
+    },
+    {
+      "id": "44bf29f6-aee9-4e81-95c0-771c97f5a16b",
+      "hallucinated": false
+    },
+    {
+      "id": "8ed51534-7d6e-45e3-b9f1-01e7a43250f1",
+      "hallucinated": true
+    },
+    {
+      "id": "b6d54158-8406-41a2-84e1-36f43c354240",
+      "hallucinated": false
+    },
+    {
+      "id": "32d77b6d-b109-40b7-bc0f-99803277fbcd",
+      "hallucinated": true
+    },
+    {
+      "id": "ae7c4737-8662-471c-a3be-430ba8a0cd75",
+      "hallucinated": true
+    },
+    {
+      "id": "4600e413-5dc2-480f-a561-631214c52782",
+      "hallucinated": true
+    },
+    {
+      "id": "b324bd6c-463e-4089-bda9-b0fd06b4c272",
+      "hallucinated": true
+    },
+    {
+      "id": "0ff3626e-e19e-4dfa-bc71-1ce76d5a49a5",
+      "hallucinated": true
+    },
+    {
+      "id": "77bb12b9-7197-4833-804a-88560e68eca6",
+      "hallucinated": true
+    },
+    {
+      "id": "14e81555-95ed-4ab7-9ff2-365b25ba2ee8",
+      "hallucinated": true
+    },
+    {
+      "id": "8578be52-1880-4a59-8894-6f4e87d17a29",
+      "hallucinated": false
+    },
+    {
+      "id": "3fc35d66-fe98-42a2-9139-ed5b147d542e",
+      "hallucinated": true
+    },
+    {
+      "id": "382ce603-db05-42d7-8a6a-b6def979ca23",
+      "hallucinated": true
+    },
+    {
+      "id": "3ae07499-28e3-4c35-b1bd-d1a89cf3db36",
+      "hallucinated": true
+    },
+    {
+      "id": "46c5c1b3-23d6-45aa-aa8c-74d235f746a6",
+      "hallucinated": false
+    },
+    {
+      "id": "2480d9f5-3b28-4ab3-b3d2-44cd00e3288d",
+      "hallucinated": false
+    },
+    {
+      "id": "32302d6b-0e17-4708-b9a4-41be8a6094aa",
+      "hallucinated": true
+    },
+    {
+      "id": "caf400b2-28c5-440b-835f-d9d516c6afed",
+      "hallucinated": false
+    },
+    {
+      "id": "79cf3f45-e6b0-495b-87ab-9afa169ea5b0",
+      "hallucinated": true
+    },
+    {
+      "id": "c9d15396-8d34-465b-8bba-502db7e63aea",
+      "hallucinated": true
+    },
+    {
+      "id": "5029dc3e-adfd-46da-983a-d5ccdba66744",
+      "hallucinated": false
+    },
+    {
+      "id": "7c451efb-71e5-47f6-8fa2-0495a4d342c5",
+      "hallucinated": false
+    },
+    {
+      "id": "03074e4c-5e32-4625-8934-78dec716e3f1",
+      "hallucinated": false
+    },
+    {
+      "id": "2d6b96d1-a4a0-4ef3-bbea-b30778408ae7",
+      "hallucinated": false
+    },
+    {
+      "id": "0323c3e8-0b60-4800-a8f4-cd209c60c114",
+      "hallucinated": false
+    },
+    {
+      "id": "bfed1d83-121b-44ab-8355-8b77a43bcbb6",
+      "hallucinated": true
+    },
+    {
+      "id": "69e88696-8efe-4180-a32a-41ad231c1188",
+      "hallucinated": false
+    },
+    {
+      "id": "974ae548-bef2-4ad5-82e7-8e8b191294c9",
+      "hallucinated": false
+    },
+    {
+      "id": "508cadb0-d031-47f8-b8fb-9effd3bd9db0",
+      "hallucinated": false
+    },
+    {
+      "id": "355c3805-2ddc-4de4-818b-536b2a0b021b",
+      "hallucinated": true
+    },
+    {
+      "id": "d481524b-f213-482e-8c81-47adec6218ab",
+      "hallucinated": false
+    },
+    {
+      "id": "b04a6f58-2860-445b-8770-d309a467fe30",
+      "hallucinated": true
+    },
+    {
+      "id": "d7b5c444-1eff-406b-9ebf-75cd995d4f04",
+      "hallucinated": true
+    },
+    {
+      "id": "af50c1de-5421-4876-8440-49ece865197e",
+      "hallucinated": true
+    },
+    {
+      "id": "4cecdf12-0b8b-456c-b7a1-ad77b212dd58",
+      "hallucinated": true
+    },
+    {
+      "id": "632caee3-20af-4b29-824c-29f1fe6e795c",
+      "hallucinated": false
+    },
+    {
+      "id": "d423553a-44cb-4577-b7f5-ee418c924816",
+      "hallucinated": true
+    },
+    {
+      "id": "94cc8c76-8f14-45fa-a03d-53fd6c718c93",
+      "hallucinated": true
+    },
+    {
+      "id": "e0685c96-c27f-4dd4-9a36-b2fe7463a48d",
+      "hallucinated": false
+    },
+    {
+      "id": "e7ed4b22-0fee-4b36-8390-4d7fafd1061e",
+      "hallucinated": true
+    },
+    {
+      "id": "2091d4f0-9877-4fe7-a5e1-111a3b63ce80",
+      "hallucinated": true
+    },
+    {
+      "id": "2c1f1be2-3ecb-4695-b1b8-77cdf514d89d",
+      "hallucinated": false
+    },
+    {
+      "id": "41163cff-d27a-40aa-8a33-e9447b9a5640",
+      "hallucinated": true
+    },
+    {
+      "id": "6927db9b-5ecd-4a52-8825-f4cea9c33042",
+      "hallucinated": false
+    },
+    {
+      "id": "45e63a38-81fd-4c4d-8e39-e22e7f231e52",
+      "hallucinated": true
+    },
+    {
+      "id": "812f79e1-2c09-410d-82c3-21e7f64ce6c5",
+      "hallucinated": false
+    },
+    {
+      "id": "bac1b93d-3255-4661-bcf2-fe467939eb87",
+      "hallucinated": false
+    },
+    {
+      "id": "d8cfed6e-9771-4d65-902c-9a28d526ed6c",
+      "hallucinated": true
+    },
+    {
+      "id": "5557891f-7dc1-4f97-9cba-eb941c0e339d",
+      "hallucinated": true
+    },
+    {
+      "id": "95a5747e-3cea-4aa0-b65b-c4440b6853ca",
+      "hallucinated": false
+    },
+    {
+      "id": "16c7ca35-1294-42d7-ad3c-015a62c4c204",
+      "hallucinated": false
+    },
+    {
+      "id": "a2f02664-a032-4b4a-b388-299d7b95fb7a",
+      "hallucinated": true
+    },
+    {
+      "id": "1054b945-7a9f-4ef0-950c-89131e5c650f",
+      "hallucinated": false
+    },
+    {
+      "id": "c9351a21-d57e-4d9a-a621-eb489defbf50",
+      "hallucinated": true
+    },
+    {
+      "id": "ed3e7bd3-78f5-4ad3-b0af-cadcdacf99d6",
+      "hallucinated": true
+    },
+    {
+      "id": "5cfa349d-4653-4880-9967-f6b678dc8df5",
+      "hallucinated": true
+    },
+    {
+      "id": "a671f704-7f4d-4524-ac36-f099c4e6f3ee",
+      "hallucinated": true
+    },
+    {
+      "id": "4c219d65-8fe2-4029-9da0-70f5e2857bdb",
+      "hallucinated": true
+    },
+    {
+      "id": "170e59a3-c98e-4b78-85dc-51fea65271b1",
+      "hallucinated": true
+    },
+    {
+      "id": "c96483f5-af70-4a91-af3a-ee5c7e5d85d4",
+      "hallucinated": false
+    },
+    {
+      "id": "85da1ce2-fbe9-41ff-9194-758cb960abce",
+      "hallucinated": false
+    },
+    {
+      "id": "01015879-4cae-4dfe-8dab-090126b29f51",
+      "hallucinated": false
+    },
+    {
+      "id": "fd03a87a-5be0-415e-8a77-68fdd53652d8",
+      "hallucinated": false
+    },
+    {
+      "id": "5e974684-1e46-4fc2-8523-71845b41626e",
+      "hallucinated": true
+    },
+    {
+      "id": "ada9211f-db29-416f-8cba-8011e38b898e",
+      "hallucinated": false
+    },
+    {
+      "id": "3f43295e-2df3-49d8-8ee0-06ab64b07bb3",
+      "hallucinated": false
+    },
+    {
+      "id": "330add8c-afa8-42c1-a9fe-3a66c7c52795",
+      "hallucinated": false
+    },
+    {
+      "id": "105f882f-e1fd-48f5-8c70-11b2a412dbe9",
+      "hallucinated": true
+    },
+    {
+      "id": "00aea763-fa4c-4ed2-b06f-07a72a8b2674",
+      "hallucinated": false
+    },
+    {
+      "id": "224ce62a-cc3d-4b59-aa36-e52e289f036d",
+      "hallucinated": false
+    },
+    {
+      "id": "7942a531-ec9e-4d98-b770-9f05c0239ee2",
+      "hallucinated": false
+    },
+    {
+      "id": "6cdc3853-99f0-40cb-b903-dce675ea30e9",
+      "hallucinated": false
+    },
+    {
+      "id": "8fac9dea-d6e7-4439-b822-943cab0abe47",
+      "hallucinated": true
+    },
+    {
+      "id": "71b60f81-9bc2-4e86-b539-4f92536d894c",
+      "hallucinated": false
+    },
+    {
+      "id": "8325b66f-987a-443c-9940-ed95c9d80d6c",
+      "hallucinated": false
+    },
+    {
+      "id": "2455dfcb-eca6-4289-a492-86f17061b739",
+      "hallucinated": true
+    },
+    {
+      "id": "dc62e06c-7f3d-4957-93da-85d09525c7b9",
+      "hallucinated": false
+    },
+    {
+      "id": "b86338ad-b2dd-4e3d-93f5-51fcffc1b8ab",
+      "hallucinated": true
+    },
+    {
+      "id": "506f2675-a8bd-40bb-a261-f74adc10d39f",
+      "hallucinated": false
+    },
+    {
+      "id": "02386f77-66ce-4d58-8286-4603e86bece9",
+      "hallucinated": false
+    },
+    {
+      "id": "ca1f3891-bb6a-48e9-9eb7-1112da79169c",
+      "hallucinated": true
+    },
+    {
+      "id": "cf4e37e5-c287-4b28-a65e-15aa2818e5c5",
+      "hallucinated": true
+    }
+  ],
+  "CovidQA": [
+    {
+      "id": "covidqa-94-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-103",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-299-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-585-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-46",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-424",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1833",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-123-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-637",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1231",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1969-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-613",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-246",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-194-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-370",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1238",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-632",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1797",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1970",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1243",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-44",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-284",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1835",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-538-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1798-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-369",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-339",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-195-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-454-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1942",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-390-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-902",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1507",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1938",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-351-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-522-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1807-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1302",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-761",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1487-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1515-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1942-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-815-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1764-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-537",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-368",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-66-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-203-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1775-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-337-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-62",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-338",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1785-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-759-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-467-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1743-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1221-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-901-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1783-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1200",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1818",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-371-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-904",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-375-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-233",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1779",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-139-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1310-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-541-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-458-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1999-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1960-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-227-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1792",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1925-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-134",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1922",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-616-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-772",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-214",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1471-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1929",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-776",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-378",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-225",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-916-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1825",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-62-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1746-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-205-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-333",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1027",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1548-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-223-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1498-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1844",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1803",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1545",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-149",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1237-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-247",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1937",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-579",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-360-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-461-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-58",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1204-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-60-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1251",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1814",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-591",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-754",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-822-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1302-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-610",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1795-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1793-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-456",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-220",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-627-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-177",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-95-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1225-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1944-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-204-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1975-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1802-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-306-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-205",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-576-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-96-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-523-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1757",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-398",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-91-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1256",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-609-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1822-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-593",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1956",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1773",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-283",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-337",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-63-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-61",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1506",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-126",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-322-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1816",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-193-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-182-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-222-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-402-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-907",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1848-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1962-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-274",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-516-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-148-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-325",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1845-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-136",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-614-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-349",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1971",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-209-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-2010-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1946",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1241",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-98-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1823",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1973-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-509-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1253-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-283-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-593-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1924-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-104",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1856",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-465",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1234",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-610-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1919",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-160",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-387",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-287-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-308",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-66",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-121",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-520",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-57-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-35",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-620",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1824-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-301",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1240-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-1465",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-1843",
+      "hallucinated": false
+    },
+    {
+      "id": "covidqa-907-perturbed",
+      "hallucinated": true
+    },
+    {
+      "id": "covidqa-382-perturbed",
+      "hallucinated": true
+    }
+  ],
+  "PubMedQA": [
+    {
+      "id": "7544368",
+      "hallucinated": true
+    },
+    {
+      "id": "21519010",
+      "hallucinated": false
+    },
+    {
+      "id": "27478782",
+      "hallucinated": true
+    },
+    {
+      "id": "24317853",
+      "hallucinated": true
+    },
+    {
+      "id": "12630042",
+      "hallucinated": false
+    },
+    {
+      "id": "12153648",
+      "hallucinated": false
+    },
+    {
+      "id": "25664405",
+      "hallucinated": false
+    },
+    {
+      "id": "11064345",
+      "hallucinated": true
+    },
+    {
+      "id": "19250763",
+      "hallucinated": false
+    },
+    {
+      "id": "9347843",
+      "hallucinated": false
+    },
+    {
+      "id": "17483607",
+      "hallucinated": true
+    },
+    {
+      "id": "16565759",
+      "hallucinated": false
+    },
+    {
+      "id": "21705369",
+      "hallucinated": false
+    },
+    {
+      "id": "23536185",
+      "hallucinated": true
+    },
+    {
+      "id": "23929663",
+      "hallucinated": false
+    },
+    {
+      "id": "20224364",
+      "hallucinated": false
+    },
+    {
+      "id": "11426979",
+      "hallucinated": false
+    },
+    {
+      "id": "15958363",
+      "hallucinated": false
+    },
+    {
+      "id": "23736368",
+      "hallucinated": false
+    },
+    {
+      "id": "17904063",
+      "hallucinated": false
+    },
+    {
+      "id": "17291695",
+      "hallucinated": false
+    },
+    {
+      "id": "18503057",
+      "hallucinated": false
+    },
+    {
+      "id": "10456814",
+      "hallucinated": false
+    },
+    {
+      "id": "18752864",
+      "hallucinated": true
+    },
+    {
+      "id": "22818364",
+      "hallucinated": true
+    },
+    {
+      "id": "10570427",
+      "hallucinated": false
+    },
+    {
+      "id": "20065626",
+      "hallucinated": false
+    },
+    {
+      "id": "9500757",
+      "hallucinated": true
+    },
+    {
+      "id": "21295874",
+      "hallucinated": true
+    },
+    {
+      "id": "24066107",
+      "hallucinated": false
+    },
+    {
+      "id": "15332032",
+      "hallucinated": true
+    },
+    {
+      "id": "20130378",
+      "hallucinated": false
+    },
+    {
+      "id": "19691780",
+      "hallucinated": false
+    },
+    {
+      "id": "25613127",
+      "hallucinated": false
+    },
+    {
+      "id": "26991240",
+      "hallucinated": true
+    },
+    {
+      "id": "27406942",
+      "hallucinated": true
+    },
+    {
+      "id": "23046676",
+      "hallucinated": true
+    },
+    {
+      "id": "22545885",
+      "hallucinated": false
+    },
+    {
+      "id": "8655966",
+      "hallucinated": false
+    },
+    {
+      "id": "24161319",
+      "hallucinated": true
+    },
+    {
+      "id": "24868312",
+      "hallucinated": true
+    },
+    {
+      "id": "19653482",
+      "hallucinated": true
+    },
+    {
+      "id": "21911582",
+      "hallucinated": true
+    },
+    {
+      "id": "24423354",
+      "hallucinated": true
+    },
+    {
+      "id": "26852107",
+      "hallucinated": false
+    },
+    {
+      "id": "25157773",
+      "hallucinated": false
+    },
+    {
+      "id": "19898899",
+      "hallucinated": true
+    },
+    {
+      "id": "25735324",
+      "hallucinated": true
+    },
+    {
+      "id": "8910148",
+      "hallucinated": true
+    },
+    {
+      "id": "22790511",
+      "hallucinated": true
+    },
+    {
+      "id": "9153465",
+      "hallucinated": false
+    },
+    {
+      "id": "16442035",
+      "hallucinated": false
+    },
+    {
+      "id": "15477551",
+      "hallucinated": true
+    },
+    {
+      "id": "23023371",
+      "hallucinated": true
+    },
+    {
+      "id": "22095988",
+      "hallucinated": true
+    },
+    {
+      "id": "12000371",
+      "hallucinated": true
+    },
+    {
+      "id": "21198823",
+      "hallucinated": true
+    },
+    {
+      "id": "18435678",
+      "hallucinated": true
+    },
+    {
+      "id": "14697293",
+      "hallucinated": true
+    },
+    {
+      "id": "18053021",
+      "hallucinated": false
+    },
+    {
+      "id": "9817368",
+      "hallucinated": false
+    },
+    {
+      "id": "21378253",
+      "hallucinated": true
+    },
+    {
+      "id": "10837391",
+      "hallucinated": false
+    },
+    {
+      "id": "24785562",
+      "hallucinated": true
+    },
+    {
+      "id": "27207908",
+      "hallucinated": false
+    },
+    {
+      "id": "15897483",
+      "hallucinated": false
+    },
+    {
+      "id": "20651335",
+      "hallucinated": true
+    },
+    {
+      "id": "23362302",
+      "hallucinated": true
+    },
+    {
+      "id": "19409117",
+      "hallucinated": true
+    },
+    {
+      "id": "19439502",
+      "hallucinated": true
+    },
+    {
+      "id": "19606226",
+      "hallucinated": true
+    },
+    {
+      "id": "19445671",
+      "hallucinated": true
+    },
+    {
+      "id": "23762292",
+      "hallucinated": true
+    },
+    {
+      "id": "18451223",
+      "hallucinated": false
+    },
+    {
+      "id": "18226801",
+      "hallucinated": true
+    },
+    {
+      "id": "15000338",
+      "hallucinated": false
+    },
+    {
+      "id": "26175531",
+      "hallucinated": false
+    },
+    {
+      "id": "25401746",
+      "hallucinated": true
+    },
+    {
+      "id": "10210641",
+      "hallucinated": false
+    },
+    {
+      "id": "9175815",
+      "hallucinated": false
+    },
+    {
+      "id": "17940602",
+      "hallucinated": true
+    },
+    {
+      "id": "21346095",
+      "hallucinated": false
+    },
+    {
+      "id": "12855939",
+      "hallucinated": false
+    },
+    {
+      "id": "20333792",
+      "hallucinated": false
+    },
+    {
+      "id": "26683568",
+      "hallucinated": false
+    },
+    {
+      "id": "19040620",
+      "hallucinated": true
+    },
+    {
+      "id": "24013712",
+      "hallucinated": false
+    },
+    {
+      "id": "20530429",
+      "hallucinated": true
+    },
+    {
+      "id": "22428533",
+      "hallucinated": true
+    },
+    {
+      "id": "24824797",
+      "hallucinated": true
+    },
+    {
+      "id": "15510613",
+      "hallucinated": false
+    },
+    {
+      "id": "25168472",
+      "hallucinated": false
+    },
+    {
+      "id": "27863926",
+      "hallucinated": true
+    },
+    {
+      "id": "26013149",
+      "hallucinated": true
+    },
+    {
+      "id": "12947068",
+      "hallucinated": true
+    },
+    {
+      "id": "23539241",
+      "hallucinated": false
+    },
+    {
+      "id": "24671913",
+      "hallucinated": false
+    },
+    {
+      "id": "19460157",
+      "hallucinated": false
+    },
+    {
+      "id": "22922655",
+      "hallucinated": false
+    },
+    {
+      "id": "9146771",
+      "hallucinated": true
+    },
+    {
+      "id": "22576962",
+      "hallucinated": false
+    },
+    {
+      "id": "12359973",
+      "hallucinated": false
+    },
+    {
+      "id": "9403530",
+      "hallucinated": false
+    },
+    {
+      "id": "23708554",
+      "hallucinated": true
+    },
+    {
+      "id": "23902985",
+      "hallucinated": true
+    },
+    {
+      "id": "24022305",
+      "hallucinated": false
+    },
+    {
+      "id": "17389923",
+      "hallucinated": true
+    },
+    {
+      "id": "11917178",
+      "hallucinated": true
+    },
+    {
+      "id": "25182570",
+      "hallucinated": false
+    },
+    {
+      "id": "16481245",
+      "hallucinated": false
+    },
+    {
+      "id": "16415424",
+      "hallucinated": false
+    },
+    {
+      "id": "25520328",
+      "hallucinated": false
+    },
+    {
+      "id": "9843470",
+      "hallucinated": true
+    },
+    {
+      "id": "17949392",
+      "hallucinated": true
+    },
+    {
+      "id": "25882475",
+      "hallucinated": false
+    },
+    {
+      "id": "27820933",
+      "hallucinated": true
+    },
+    {
+      "id": "20615130",
+      "hallucinated": true
+    },
+    {
+      "id": "27033675",
+      "hallucinated": false
+    },
+    {
+      "id": "9551677",
+      "hallucinated": false
+    },
+    {
+      "id": "23035925",
+      "hallucinated": true
+    },
+    {
+      "id": "27555146",
+      "hallucinated": false
+    },
+    {
+      "id": "15539888",
+      "hallucinated": true
+    },
+    {
+      "id": "12765819",
+      "hallucinated": true
+    },
+    {
+      "id": "24507422",
+      "hallucinated": true
+    },
+    {
+      "id": "26129880",
+      "hallucinated": true
+    },
+    {
+      "id": "22246633",
+      "hallucinated": true
+    },
+    {
+      "id": "23084318",
+      "hallucinated": true
+    },
+    {
+      "id": "23147408",
+      "hallucinated": true
+    },
+    {
+      "id": "26243800",
+      "hallucinated": false
+    },
+    {
+      "id": "10135926",
+      "hallucinated": true
+    },
+    {
+      "id": "27863293",
+      "hallucinated": true
+    },
+    {
+      "id": "27216167",
+      "hallucinated": true
+    },
+    {
+      "id": "22648653",
+      "hallucinated": false
+    },
+    {
+      "id": "25487603",
+      "hallucinated": false
+    },
+    {
+      "id": "18568885",
+      "hallucinated": true
+    },
+    {
+      "id": "10834864",
+      "hallucinated": false
+    },
+    {
+      "id": "26894633",
+      "hallucinated": true
+    },
+    {
+      "id": "21988540",
+      "hallucinated": true
+    },
+    {
+      "id": "11481172",
+      "hallucinated": false
+    },
+    {
+      "id": "27928673",
+      "hallucinated": false
+    },
+    {
+      "id": "15572021",
+      "hallucinated": false
+    },
+    {
+      "id": "26061619",
+      "hallucinated": false
+    },
+    {
+      "id": "27821059",
+      "hallucinated": false
+    },
+    {
+      "id": "21712147",
+      "hallucinated": true
+    },
+    {
+      "id": "16512814",
+      "hallucinated": false
+    },
+    {
+      "id": "19674198",
+      "hallucinated": false
+    },
+    {
+      "id": "19738375",
+      "hallucinated": false
+    },
+    {
+      "id": "11798961",
+      "hallucinated": true
+    },
+    {
+      "id": "27585528",
+      "hallucinated": false
+    },
+    {
+      "id": "11035130",
+      "hallucinated": true
+    },
+    {
+      "id": "9415571",
+      "hallucinated": true
+    },
+    {
+      "id": "17375706",
+      "hallucinated": true
+    },
+    {
+      "id": "18676242",
+      "hallucinated": true
+    },
+    {
+      "id": "20657867",
+      "hallucinated": false
+    },
+    {
+      "id": "12372653",
+      "hallucinated": true
+    },
+    {
+      "id": "26230759",
+      "hallucinated": true
+    },
+    {
+      "id": "17854601",
+      "hallucinated": false
+    },
+    {
+      "id": "26260798",
+      "hallucinated": true
+    },
+    {
+      "id": "25966742",
+      "hallucinated": true
+    },
+    {
+      "id": "12438463",
+      "hallucinated": false
+    },
+    {
+      "id": "23601294",
+      "hallucinated": true
+    },
+    {
+      "id": "17276801",
+      "hallucinated": false
+    },
+    {
+      "id": "22804760",
+      "hallucinated": true
+    },
+    {
+      "id": "18257131",
+      "hallucinated": false
+    },
+    {
+      "id": "25246784",
+      "hallucinated": false
+    },
+    {
+      "id": "7497757",
+      "hallucinated": true
+    },
+    {
+      "id": "15838438",
+      "hallucinated": true
+    },
+    {
+      "id": "14600003",
+      "hallucinated": false
+    },
+    {
+      "id": "24106773",
+      "hallucinated": false
+    },
+    {
+      "id": "19394934",
+      "hallucinated": true
+    },
+    {
+      "id": "20736672",
+      "hallucinated": false
+    },
+    {
+      "id": "22035075",
+      "hallucinated": true
+    },
+    {
+      "id": "18470928",
+      "hallucinated": true
+    },
+    {
+      "id": "10971319",
+      "hallucinated": true
+    },
+    {
+      "id": "22843878",
+      "hallucinated": true
+    },
+    {
+      "id": "19664156",
+      "hallucinated": true
+    },
+    {
+      "id": "19157732",
+      "hallucinated": true
+    },
+    {
+      "id": "16530322",
+      "hallucinated": false
+    },
+    {
+      "id": "26276306",
+      "hallucinated": false
+    },
+    {
+      "id": "18067970",
+      "hallucinated": false
+    },
+    {
+      "id": "10985887",
+      "hallucinated": false
+    },
+    {
+      "id": "15168812",
+      "hallucinated": true
+    },
+    {
+      "id": "27765658",
+      "hallucinated": false
+    },
+    {
+      "id": "26387799",
+      "hallucinated": false
+    },
+    {
+      "id": "25862596",
+      "hallucinated": false
+    },
+    {
+      "id": "27601167",
+      "hallucinated": true
+    },
+    {
+      "id": "24029364",
+      "hallucinated": false
+    },
+    {
+      "id": "15749040",
+      "hallucinated": false
+    },
+    {
+      "id": "25249235",
+      "hallucinated": false
+    },
+    {
+      "id": "25069832",
+      "hallucinated": false
+    },
+    {
+      "id": "21669959",
+      "hallucinated": true
+    },
+    {
+      "id": "10801482",
+      "hallucinated": false
+    },
+    {
+      "id": "24739448",
+      "hallucinated": false
+    },
+    {
+      "id": "17225881",
+      "hallucinated": true
+    },
+    {
+      "id": "25680823",
+      "hallucinated": false
+    },
+    {
+      "id": "21952690",
+      "hallucinated": true
+    },
+    {
+      "id": "16195477",
+      "hallucinated": false
+    },
+    {
+      "id": "21544513",
+      "hallucinated": false
+    },
+    {
+      "id": "17724290",
+      "hallucinated": true
+    },
+    {
+      "id": "24996865",
+      "hallucinated": true
+    }
+  ]
+}

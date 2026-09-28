@@ -1,0 +1,25 @@
+# secrets and environments
+.env
+.venv/
+venv/
+*env/
+
+# Python / editor
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.vscode/
+.idea/
+
+# raw predictions contain full benchmark passages; commit only summaries
+results/*/predictions/
+results/smoke/
+
+# LaTeX build files
+report/*.aux
+report/*.log
+report/*.out
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz

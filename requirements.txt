@@ -1,0 +1,11 @@
+openai>=1.40
+datasets>=2.19
+numpy>=1.26
+tqdm>=4.66
+# NLI method only
+torch>=2.2
+transformers>=4.40
+sentencepiece>=0.2
+protobuf>=4.25
+# report figures only
+matplotlib>=3.8

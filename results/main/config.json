@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "HaluEval",
+    "RAGTruth",
+    "FinanceBench",
+    "DROP",
+    "CovidQA",
+    "PubMedQA"
+  ],
+  "n_per_subset": 200,
+  "balanced": false,
+  "seed": 42,
+  "exclude_from": [],
+  "methods": [
+    "nli"
+  ],
+  "model": "gpt-4o-mini",
+  "temperature": 0.0,
+  "top_logprobs": 5,
+  "claims_threshold": 0.5,
+  "geval_threshold": 0.5,
+  "nli_neutral_threshold": 0.6,
+  "nli_model": "cross-encoder/nli-deberta-v3-large",
+  "nli_device": "mps",
+  "nli_chunk_tokens": 400,
+  "nli_chunk_stride": 100,
+  "max_retries": 6,
+  "request_delay": 0.0,
+  "price_input_per_m": 0.15,
+  "price_output_per_m": 0.6,
+  "out_dir": "results/main",
+  "n_bootstrap": 1000
+}
